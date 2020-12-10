@@ -1,0 +1,1001 @@
+section,row,n_section_id,n_row_id,valid
+GS 17,11,340,10,True
+BL 36,16,2,15,True
+GRANDSTAND 6,14,113,13,True
+Outfield Grandstand GS33,3,,,False
+Infield Grandstand GS18,8,337,7,True
+Grandstands 16,8,341,7,True
+Grandstands 9,4,114,3,True
+Right Field Box RFB4,F,68,0,True
+BLEACHER 36,15,2,14,True
+Field Box 66,L,240,8,True
+Field Box 39,M,53,11,True
+G14,6,339,5,True
+RF BOX 6,J,66,6,True
+Bleachers 39,42,5,22,True
+G8,9,115,8,True
+Right Field Box 7,J,65,9,True
+Field Box FB39,L,53,10,True
+Infield Grandstand GS11,5,342,4,True
+INFIELD GRANDSTAND 19,18,336,17,True
+RFB 95,WW,131,19,True
+R.F. BOX 93,EE,126,1,True
+L42,22,,,False
+GS 11,8,342,7,True
+Grandstands 12,13,344,12,True
+Grandstands 14,6,339,5,True
+BLEACHER 37,20,1,19,True
+Infield Grandstand GS30,7,179,6,True
+Outfield Grandstand 1,15,107,14,True
+G29,12,301,11,True
+Loge Box 119,HH,325,7,True
+G24,2,243,1,True
+Loge Box 101,CC,346,2,True
+Right Field Box 8,K,25,10,True
+Infield Grandstand GS14,2,339,1,True
+GS22,18,298,17,True
+RIGHT FIELD BOX 95,VV,131,18,True
+OUTFIELD GRANDSTAND 7,1,112,0,True
+22 GRANDSTAND,16,298,15,True
+Blch 41,15,281,13,True
+BLEACHER 41,13,281,11,True
+Bleachers BL41,29,281,27,True
+G29,6,301,5,True
+G14,08,339,7,True
+BLEACHER 37,4,1,3,True
+Grandstands 24,7,243,6,True
+Right Field Box 94,VV,132,18,True
+G8,9,115,8,True
+Loge 153,JJ,283,8,True
+GS 9,3,114,2,True
+BLEACHER 36,14,2,13,True
+L43,42,,,False
+Right Field Box 94,LL,132,9,True
+GS 19,10,336,9,True
+G8,9,115,8,True
+Bleachers 42,16,278,14,True
+G24,8,243,7,True
+BLEACHER 37,2,1,1,True
+BL 36,12,2,11,True
+GS 16,6,341,5,True
+Right Field Box 93,QQ,126,11,True
+Pavilion Box 3,D,324,3,True
+LOGE 124,FF,213,5,True
+Infield Grandstand GS24,9,243,8,True
+Grandstands 12,15,344,14,True
+GS 26,1,294,0,True
+G7,13,112,12,True
+Right Field Box 97,VV,130,18,True
+Loge Box 101,PP,346,13,True
+Blch 41,9,281,7,True
+BL 38,17,6,16,True
+30,12,179,11,True
+G31,4,178,3,True
+BLEACHER 37,6,1,5,True
+RFB 97,MM,130,10,True
+Outfield Grandstand GS32,15,,,False
+BL 41,12,281,10,True
+Field Box FB20,M,167,11,True
+GS 23,5,252,4,True
+Bleachers 38,6,6,5,True
+LOGE BOX 161,FF,174,5,True
+L41U,49,,,False
+Pavilion Box 3,E,324,4,True
+94,LL,132,9,True
+Bleachers BL37,39,1,38,True
+GS16,19,341,18,True
+Bleachers BL38,15,6,14,True
+Right Field Box 93,KK,126,6,True
+GS 6,1-10,,,False
+G7,05,112,4,True
+GS 9,3,114,2,True
+Field Box 71,G,119,6,True
+Infield Grandstand GS17,1,340,0,True
+RF BOX 94,NN,132,11,True
+Loge 119,GG,325,6,True
+Bleachers 39,22,5,2,True
+133,HH,102,7,True
+LOGE BOX 116,LL,311,5,True
+RF BOX 6,J,66,6,True
+Infield Grandstand GS17,12,340,11,True
+FBOX 62,H,236,5,True
+L38,23,,,False
+Field Box 82,L,196,7,True
+Bleachers BL36,18,2,17,True
+Bleacher 37,19,1,18,True
+FBOX 37,A-M,,,False
+L38U,39,,,False
+Loge Box 113,CC,316,2,True
+PAVILION BOX,D,,,False
+Bleacher 42,12,278,10,True
+Field Box 27,M,160,9,True
+LOGE BOX 161,FF,174,5,True
+F9,M,,,False
+Right Field Box 4,J,68,3,True
+163,HH,172,7,True
+L36,21,,,False
+GS 11,6,342,5,True
+R.F. BOX 93,NN,126,9,True
+LOGE 141,GG,13,6,True
+LOGE BOX 129,FF,204,5,True
+Right Field Box 94,WW,132,19,True
+G15,16,338,15,True
+Grandstands 5,01,197,0,True
+Right Field Roof Box RFRB25,B,17,1,True
+GS11,6,342,5,True
+Bleachers 37,16,1,15,True
+Infield Grandstand GS27,10,247,9,True
+RIGHT FIELD BOX 94,AA-XX,,,False
+Pavilion Box PB3,B,324,1,True
+R.F. Box 94,RR,132,14,True
+Infield Grandstand GS13,7,343,6,True
+G12,7,344,6,True
+Loge Box 154,AA,288,0,True
+Grandstands 25,16,293,15,True
+Bleachers 37,19,1,18,True
+Loge Box 161,GG,174,6,True
+RFB 7,K,65,10,True
+L36,15,,,False
+FBOX 21,G,166,4,True
+Grandstands 7,6,112,5,True
+BLEACHER 36,14,2,13,True
+G14,09,339,8,True
+Loge 101,EE,346,4,True
+GS 15,5,338,4,True
+18 BOX 126,FF,,,False
+Field Box 51,C,333,2,True
+Grandstands 13,8,343,7,True
+L42,15,,,False
+Field Box FB14,B,274,1,True
+G26,13,294,12,True
+FIELD BOX 23,E,164,2,True
+G4,03,111,2,True
+Loge 110,EE,317,4,True
+PAV. BOX 8,B,85,1,True
+RF BOX 4,K,68,4,True
+BLEACHER 37,21-50,,,False
+BL 43,8,279,6,True
+Bleachers 41,5,281,3,True
+Field Box FB32,C,48,2,True
+Bleachers 36,14,2,13,True
+FIELD BOX 9,C,245,3,True
+DUGOUT 60,1,28,0,True
+FBOX 12,K,268,9,True
+FIELD BOX 9,C,245,3,True
+Grandstands 28,9,300,6,True
+Bleachers 38,3,6,2,True
+GS 13,5,343,4,True
+GS 29,7,301,6,True
+Field Box 29,H,168,7,True
+Grandstands 15,10,338,9,True
+Bleachers 36,14,2,13,True
+GS8,6,115,5,True
+RF BOX 89,NN,20,9,True
+FLD BX17,H,273,7,True
+GS 25,13,293,12,True
+Bleacher 37,19,1,18,True
+Infield Grandstand 24,8,243,7,True
+R.F. BOX 93,FF,126,2,True
+BL 42,21,278,19,True
+RFB 97,GG,130,5,True
+BL 42,21,278,19,True
+Grandstands 11,11,342,10,True
+Right Field Box RFB8,K,25,10,True
+Grandstands 4,5,111,4,True
+Right Field Box 7,K,65,10,True
+Bleachers 36,21,2,20,True
+G6,11,113,10,True
+LOGE BOX 161,FF,174,5,True
+FBOX 7,F,65,6,True
+Bleachers 41,14,281,12,True
+Bleachers BL38,38,6,37,True
+LOGE BOX 155,DD,289,3,True
+GS 7,1,112,0,True
+Grandstands 12,3,344,2,True
+GS 14,7,339,6,True
+RFB 8,J,25,9,True
+Right Field Box 94,VV,132,18,True
+Field Box 27,G,160,4,True
+FIELD BOX 57,B,327,1,True
+Loge 102,HH,361,7,True
+Bleachers BL41,25,281,23,True
+Bleachers BL36,20,2,19,True
+Field Box FB35,K,43,9,True
+Field Box 65,G,241,4,True
+G14,12,339,11,True
+Field Box 71,K,119,9,True
+LOGE 102,LL,361,10,True
+GS18,7,337,6,True
+LOGE 113,QQ,,,False
+Right Field Box RFB7,D,65,4,True
+GRANDSTAND 27,13,247,12,True
+LOGE 162,KK,173,9,True
+L43,9,,,False
+Field Box FB12,C,268,2,True
+LOGE 162,MM,173,11,True
+GRANDSTAND 30,11,179,10,True
+L37,08,,,False
+Grandstands 12,14,344,13,True
+Loge Box 161,GG,174,6,True
+Infield Grandstand GS22,1,298,0,True
+R.F. BOX 93,PP,126,10,True
+Right Field Box 93,LL,126,7,True
+R.F. BOX 93,NN,126,9,True
+LOGE 119,EE,325,4,True
+Bleachers 37,19,1,18,True
+RIGHT FIELD BOX 6,K,,,False
+LOGE 145,HH,9,7,True
+Loge Box 119,HH,325,7,True
+Right Field Box RFB2,H,63,6,True
+Right Field Box RFB2,N,63,11,True
+Right Field Box 95,TT,131,16,True
+LOGE 115,DD,314,3,True
+LOGE BOX 123,NN,206,12,True
+Infield Grandstand GS20,17,296,16,True
+G13,8,343,7,True
+Right Field Box 96,SS,,,False
+BL 36,20,2,19,True
+F10,K,,,False
+Grandstands 29,6,301,5,True
+FBOX 8,C,25,3,True
+Infield Grandstand GS14,10,339,9,True
+Grandstands 2,15,109,14,True
+Right Field Box 90,UU,129,15,True
+GRANDSTAND 25,17,293,16,True
+Bleachers 36,9,2,8,True
+Right Field Box 93,PP,126,10,True
+Bleachers 37,13,1,12,True
+Infield Grandstand 15,10,338,9,True
+FBOX 4,J,68,3,True
+Bleachers 37,9,1,8,True
+FBOX 37,L,45,10,True
+Infield Grandstand 27,18,247,17,True
+Infield Grandstand 15,17,338,16,True
+GS 8,1-10,,,False
+G10,16,345,15,True
+L38U,28,,,False
+G15,17,338,16,True
+BL 37,47,,,False
+GRANDSTAND 17,13,340,12,True
+LOGE 123,GG,206,6,True
+Bleachers 38,17,6,16,True
+Grandstands 15,1,338,0,True
+Grandstands 12,14,344,13,True
+Right Field Box 94,EE,132,3,True
+G16,14,341,13,True
+Infield Grandstand 18,14,337,13,True
+BL 36,15,2,14,True
+L35,6,,,False
+G17,14,340,13,True
+G30,7,179,6,True
+Infield Grandstand GS17,11,340,10,True
+Right Field Box 95,QQ,131,13,True
+Right Field Box RFB7,J,65,9,True
+GS 11,8,342,7,True
+Bleachers BL38,14,6,13,True
+Field Box 70,F,118,5,True
+Grandstands 27,11,247,10,True
+Grandstands 17,14,340,13,True
+Outfield Grandstand GS9,4,114,3,True
+Field Box 66,M,240,9,True
+G9,10,114,9,True
+GS 16,2,341,1,True
+RFB 8,K,25,10,True
+PAVILION BOX,D,,,False
+L43U,50,,,False
+GS 11,17,342,16,True
+Outfield Grandstand GS8,8,115,7,True
+5 GRANDSTAND,4,197,3,True
+Right Field Box 94,NN,132,11,True
+GS 27,2,247,1,True
+Right Field Box 97,WW,130,19,True
+Bleachers 39,32,5,12,True
+GS 11,11,342,10,True
+LOGE 112,KK,315,9,True
+Right Field Box 94,WW,132,19,True
+Infield Grandstand 18,14,337,13,True
+FIELD BOX 28,H,169,5,True
+LOGE 150,EE,284,4,True
+GS 25,3,293,2,True
+Pavilion Box PB5,D,319,3,True
+Bleachers 37,15,1,14,True
+FBOX 8,A-K,,,False
+BLEACHER 35,18,3,17,True
+FIELD BOX 67,A-M,,,False
+15 GRANDSTAND,10,338,9,True
+Field Box 38,L,52,10,True
+Outfield Grandstand 4,1,111,0,True
+BLEACHER 37,6,1,5,True
+LOGE BOX 162,AA-XX,,,False
+BLEACHER 37,6,1,5,True
+GS 27,14,247,13,True
+FBOX 18,E,276,4,True
+Field Box 14,D,274,3,True
+G10,12,345,11,True
+BLEACHER 42,41,278,39,True
+Infield Grandstand GS12,4,344,3,True
+G27,13,247,12,True
+G25,5,293,4,True
+Field Box 32,D,48,3,True
+Loge Box 102,EE,361,4,True
+Bleachers 37,3,1,2,True
+G6,2,113,1,True
+LOGE 112,HH,315,7,True
+Right Field Box 94,SS,132,15,True
+Field Box 23,L,164,8,True
+Bleachers 37,12,1,11,True
+Grandstands 15,14,338,13,True
+Right Field Box 93,QQ,126,11,True
+G26,15,294,14,True
+Loge Box 127,EE,210,4,True
+R29,B,263,1,True
+Grandstands 25,14,293,13,True
+GS 14,9,339,8,True
+Right Field Box 97,QQ,130,13,True
+Infield Grandstand GS13,6,343,5,True
+BL 37,8,1,7,True
+Right Field Box 95,DD,131,2,True
+Right Field Box 95,EE,131,3,True
+Right Field Box 94,UU,132,17,True
+GS 29,7,301,6,True
+GRANDSTAND 30,11,179,10,True
+Infield Grandstand 18,14,337,13,True
+Infield Grandstand GS31,1,178,0,True
+FBOX 36,J,44,8,True
+Bleachers BL36,20,2,19,True
+Bleachers BL38,37,6,36,True
+Bleachers 39,47,5,27,True
+Grandstands 12,13,344,12,True
+Field Box 25,K,162,7,True
+GRANDSTAND 30,11,179,10,True
+Outfield Grandstand GS8,11,115,10,True
+GS 16,8,341,7,True
+Right Field Box 92,SS,127,13,True
+L43,44,,,False
+Bleachers 37,6,1,5,True
+Bleachers 43,9,279,7,True
+MONSTER10,1,156,0,True
+RIGHT FIELD BOX 95,VV,131,18,True
+LOGE 112,HH,315,7,True
+GS18,17,337,14,True
+Bleachers 38,36,6,35,True
+Loge Box 161,GG,174,6,True
+BLEACHER 41,20,281,18,True
+FBOX 20,M,167,11,True
+26,6,294,5,True
+Loge Box 140,EE,14,4,True
+Grandstands 13,6,343,5,True
+Grandstands 18,10,337,9,True
+30,12,179,11,True
+OUTFIELD GRANDSTAND 2,12,109,11,True
+Loge 157,MM,287,11,True
+FBOX 20,M,167,11,True
+GRANDSTAND 27,10,247,9,True
+BL 41,40,281,38,True
+ROOF 23,A,22,0,True
+FBOX 32,E,48,4,True
+RF BOX 7,L,,,False
+BL 36,17,2,16,True
+Right Field Box 95,WW,131,19,True
+163,HH,172,7,True
+RFB 93,EE,126,1,True
+Loge 157,FF,287,5,True
+Bleachers 41,24,281,22,True
+Loge Box 159,GG,291,6,True
+G7,02,112,1,True
+GS 24,5,243,4,True
+Pavilion Box 4,D,320,3,True
+FBOX 2,N,63,11,True
+Grandstands 10,10,345,9,True
+Outfield Grandstand GS5,3,197,2,True
+16 GRANDSTAND,13,341,12,True
+GS 8,1,115,0,True
+RF BOX 6,H,66,5,True
+Loge 121,FF,208,5,True
+Field Box 29,H,168,7,True
+Right Field Box 94,QQ,132,13,True
+FBOX 13,E,269,4,True
+Infield Grandstand GS14,11,339,10,True
+L42,27,,,False
+Infield Grandstand GS24,12,243,11,True
+94 RIGHT FIELD BOX,VV,132,18,True
+G8,10,115,9,True
+94 RIGHT FIELD BOX,WW,132,19,True
+L42,37,,,False
+Loge Box 162,KK,173,9,True
+Bleachers 38,4,6,3,True
+GS 15,8,338,7,True
+Bleachers 36,20,2,19,True
+L36,03,,,False
+Infield Grandstand 24,11,243,10,True
+G11,08,342,7,True
+BL 37,5,1,4,True
+G8,6,115,5,True
+Loge 110,EE,317,4,True
+Field Box 50,D,332,3,True
+G24,6,243,5,True
+BLEACHER 37,20,1,19,True
+Infield Grandstand GS25,15,293,14,True
+RF BOX 95,WW,131,19,True
+Right Field Box 2,N,63,11,True
+RFB 95,HH,131,6,True
+Outfield Grandstand 9,3,114,2,True
+L37,11,,,False
+Grandstands 14,7,339,6,True
+L37U,30,,,False
+Bleachers 36,17,2,16,True
+Outfield Grandstand GS3,12,108,11,True
+FBOX 41,A,54,0,True
+GS1,17,107,16,True
+G30,8,179,7,True
+Field Box 34,M,42,11,True
+LGE BX113,KK,316,9,True
+RFB 97,BB,130,0,True
+LOGE BOX 146,HH,12,2,True
+GRANDSTAND 30,11,179,10,True
+Infield Grandstand 18,14,337,13,True
+FBOX 52,J,330,8,True
+16 GRANDSTAND,14,341,13,True
+GS 27,15,247,14,True
+LOGE 119,FF,325,5,True
+FBOX 32,E,48,4,True
+GS 19,14,336,13,True
+L36,04,,,False
+94,MM,132,10,True
+Grandstands 25,17,293,16,True
+G12,12,344,11,True
+GS 24,8,243,7,True
+Loge Box 102,CC,361,2,True
+Bleachers BL36,21,2,20,True
+Bleachers 41,47,281,45,True
+L37,15,,,False
+FBOX 52,A-M,,,False
+BLEACHER 41,20,281,18,True
+Infield Grandstand 22,1,298,0,True
+G12,3,344,2,True
+G16,15,341,14,True
+L36,03,,,False
+Bleachers BL38,11,6,10,True
+GS 1,3,107,2,True
+Loge 113,HH,316,7,True
+LOGE 121,EE,208,4,True
+FBOX 47,C,60,2,True
+Bleachers 41,18,281,16,True
+Right Field Box 97,BB,130,0,True
+G12,14,344,13,True
+FBOX 8,C,25,3,True
+Right Field Box 94,XX,132,20,True
+GS 27,4,247,3,True
+Infield Grandstand 17,11,340,10,True
+Bleachers 37,35,1,34,True
+Right Field Box 97,LL,130,9,True
+G14,07,339,6,True
+Loge 102,HH,361,7,True
+R.F. BOX 93,FF,126,2,True
+LOGE 162,KK,173,9,True
+Bleachers BL36,17,2,16,True
+BL 38,28,6,27,True
+16 GRANDSTAND,13,341,12,True
+R.F. BOX 93,EE,126,1,True
+Bleachers BL39,46,5,26,True
+Bleachers 42,7,278,5,True
+LOGE 102,GG,361,6,True
+Field Box FB25,F,162,3,True
+LOGE 162,KK,173,9,True
+FBOX 9,J,245,9,True
+BL 37,38,1,37,True
+RIGHT FIELD BOX 94,GG,132,5,True
+Right Field Box 7,J,65,9,True
+133,HH,102,7,True
+GS 8,5,115,4,True
+Right Field Box 7,K,65,10,True
+GS 9,1,114,0,True
+Grandstands 6,05,113,4,True
+BLEACHER 37,16,1,15,True
+BLEACHER 37,12,1,11,True
+Outfield Grandstand 9,1,114,0,True
+Infield Grandstand GS16,5,341,4,True
+Pavilion Box 3,C,324,2,True
+G10,12,345,11,True
+Right Field Box RFB2,M,63,10,True
+Bleachers BL37,4,1,3,True
+GS 26,2,294,1,True
+Loge Box 116,NN,311,7,True
+FBOX 12,K,268,9,True
+Bleachers BL36,15,2,14,True
+Bleachers 36,9,2,8,True
+Field Box FB22,F,165,3,True
+Infield Grandstand 14,9,339,8,True
+Infield Grandstand GS30,4,179,3,True
+Bleachers 36,16,2,15,True
+Infield Grandstand GS25,11,293,10,True
+Grandstands 30,5,179,4,True
+43 BLEACHER,16,279,14,True
+Field Box 66,L,240,8,True
+Bleachers 38,12,6,11,True
+L35,12,,,False
+BLEACHER 36,14,2,13,True
+Loge Box 129,LL,204,10,True
+Field Box 26,D,161,1,True
+Right Field Roof Box RFRB33,D,154,3,True
+Grandstands 9,08,114,7,True
+Loge 160,LL,175,10,True
+G8,5,115,4,True
+BL 38,12,6,11,True
+GS 27,11,247,10,True
+R.F. BOX 93,EE,126,1,True
+Field Box 75,F,123,5,True
+Right Field Box 94,NN,132,11,True
+DUGOUT 60,1,28,0,True
+Right Field Box 5,G,67,1,True
+BLEACHER 38,35,6,34,True
+Grandstands 15,15,338,14,True
+ROOF 23,B,22,1,True
+Field Box 40,F,55,5,True
+GS15,1,338,0,True
+GS 16,10,341,9,True
+Infield Grandstand GS26,3,294,2,True
+G12,11,344,10,True
+Pavilion Box PB11,C,78,2,True
+GS 9,1,114,0,True
+Right Field Box 93,GG,126,3,True
+FBOX 7,B,65,2,True
+BL37,19,1,18,True
+GRANDSTAND 17,12,340,11,True
+27 GRANDSTAND,18,247,17,True
+LOWER BLEACHERS 36,17,2,16,True
+41 BLEACHER,14,281,12,True
+Right Field Box 97,MM,130,10,True
+Field Box FB19,D,277,3,True
+Field Box FB14,D,274,3,True
+G17,13,340,12,True
+FIELD BOX 28,L,169,8,True
+Bleachers 37,15,1,14,True
+RFB 2,K,63,8,True
+Right Field Box 2,M,63,10,True
+Infield Grandstand GS26,8,294,7,True
+Right Field Box 4,K,68,4,True
+Right Field Box 92,SS,127,13,True
+GS 2,2,109,1,True
+GS 15,12,338,11,True
+Infield Grandstand 31,4,178,3,True
+Right Field Box RFB7,K,65,10,True
+FBOX 21,H,166,5,True
+R.F. BOX 93,FF,126,2,True
+BLEACHER 39,21-50,,,False
+BLCH 38,7,6,6,True
+Field Box 62,E,236,2,True
+Grandstands 12,6,344,5,True
+LOGE 138,DD,97,3,True
+Field Box 15,F,275,5,True
+L36,12,,,False
+GRANDSTAND 3,14,108,13,True
+Field Box 78,J,116,8,True
+L37U,27,,,False
+L41,25,,,False
+L40,5,,,False
+Grandstands 27,17,247,16,True
+ROOF 27,A,265,0,True
+FBOX 47,C,60,2,True
+GS 7,3,112,2,True
+G31,4,178,3,True
+Field Box FB19,D,277,3,True
+F9,E,,,False
+Grandstands 16,18,341,17,True
+Right Field Box 94,HH,132,6,True
+FBOX 28,J,169,6,True
+GS 25,11,293,10,True
+Bleachers 37,11,1,10,True
+G8,9,115,8,True
+Infield Grandstand GS22,8,298,7,True
+BL 43,48,279,46,True
+Loge Box 134,JJ,103,8,True
+RB31,F,,,False
+L38,15,,,False
+BL 37,4,1,3,True
+Bleachers BL39,47,5,27,True
+BL 36,17,2,16,True
+L41,31,,,False
+RF BOX 95,VV,131,18,True
+Grandstands 17,15,,,False
+RFB 93,NN,126,9,True
+FBOX 14,B,274,1,True
+Infield Grandstand GS23,17,252,14,True
+LOGE 118,MM,157,11,True
+BL 43,9,279,7,True
+Grandstands 26,10,294,9,True
+G31,5,178,4,True
+L37,08,,,False
+RFB 4,J,68,3,True
+Bleachers 42,17,278,15,True
+FIELD BOX 65,D,241,1,True
+Loge 150,JJ,284,8,True
+G13,7,343,6,True
+Infield Grandstand GS23,11,252,10,True
+Loge Box 132,KK,101,9,True
+Pavilion Box 8,C,85,2,True
+LOGE 150,GG,284,6,True
+Loge 102,HH,361,7,True
+Right Field Box RFB4,J,68,3,True
+PAV BOX 10,B,79,1,True
+G14,12,339,11,True
+BL 37,16,1,15,True
+Bleachers 38,16,6,15,True
+GRANDSTAND 27,9,247,8,True
+BLEACHERS 43,21-50,,,False
+L37U,35,,,False
+Loge Box 98,QQ,141,11,True
+Bleachers 37,12,1,11,True
+Infield Grandstand GS21,17,297,16,True
+Outfield Grandstand 8,4,115,3,True
+Grandstands 16,5,341,4,True
+G17,12,340,11,True
+L40,03,,,False
+BL 41,48,281,46,True
+L38,23,,,False
+R.F. BOX 93,KK,126,6,True
+Grandstands 26,1,294,0,True
+L36,15,,,False
+Bleachers BL37,24,1,23,True
+Bleachers BL38,12,6,11,True
+129 LOGE BOX,NN,204,12,True
+Outfield Grandstand GS8,5,115,4,True
+Outfield Grandstand GS9,4,114,3,True
+Right Field Box 93,RR,126,12,True
+Field Box FB39,J,53,8,True
+94 RIGHT FIELD BOX,WW,132,19,True
+16 GRANDSTAND,13,341,12,True
+Field Box 34,H,42,7,True
+BLEACHER 37,11,1,10,True
+37 BLEACHER,2,1,1,True
+Right Field Box 6,G,66,4,True
+Right Field Box 97,QQ,130,13,True
+FIELD BOX 30,A-M,,,False
+Upper Bleachers 38,33,6,32,True
+Bleachers 36,20,2,19,True
+FBOX 65,F,241,3,True
+Bleachers 42,48,278,46,True
+BLEACHER 36,14,2,13,True
+Bleachers BL37,16,1,15,True
+PB11,A,78,0,True
+L38,19,,,False
+RFB 94,JJ,132,8,True
+Upper Bleachers 39,48,5,28,True
+37 BLEACHER,5,1,4,True
+BL 37,4,1,3,True
+BL 38,14,6,13,True
+RFB 95,QQ,131,13,True
+GS 12,15,344,14,True
+Right Field Box 94,FF,132,4,True
+Right Field Box 94,JJ,132,8,True
+L36,05,,,False
+LOGE BOX 146,HH,12,2,True
+Bleachers 35,6,3,5,True
+Field Box 69,D,233,3,True
+RIGHT FIELD BOX 94,GG,132,5,True
+Infield Grandstand GS25,13,293,12,True
+GS 8,5,115,4,True
+GS 25,3,293,2,True
+FBOX 73,K,121,9,True
+Loge 164,LL,171,8,True
+Loge Box 123,FF,206,5,True
+Outfield Grandstand GS7,14,112,13,True
+Field Box 16,C,272,2,True
+LGE BX113,KK,316,9,True
+Right Field Box 95,QQ,131,13,True
+LOGE BOX 101,FF,346,5,True
+RF BOX 95,UU,131,17,True
+Bleachers 43,22,279,20,True
+BL 38,34,6,33,True
+Bleachers 37,19,1,18,True
+L37U,32,,,False
+Grandstands 33,7,176,6,True
+Right Field Box RFB7,J,65,9,True
+G10,16,345,15,True
+G11,9,342,8,True
+BL 37,17,1,16,True
+G18,11,337,10,True
+LOGE 147,DD,11,3,True
+L39,45,,,False
+Field Box 71,K,119,9,True
+Bleachers 43,8,279,6,True
+RFB 95,KK,131,8,True
+GS 18,6,337,5,True
+Outfield Grandstand 7,5,112,4,True
+Infield Grandstand GS26,1,294,0,True
+Loge 108,DD,51,3,True
+G31,5,178,4,True
+G12,12,344,11,True
+Field Box FB36,A,44,0,True
+RF BOX 94,NN,132,11,True
+FBOX 50,M,332,11,True
+Pavilion Box PB2,C,95,2,True
+BLEACHER 38,37,6,36,True
+2 OUTFIELD GRANDSTAND,5,109,4,True
+PAV BOX 8,C,85,2,True
+GS 3,14,108,13,True
+RF BX90,VV,129,16,True
+FIELD BOX 33,J,49,8,True
+BL 37,17,1,16,True
+Grandstands 15,14,338,13,True
+Bleachers BL36,13,2,12,True
+Grandstands 29,8,301,7,True
+BLEACHER 41,48,281,46,True
+L42,22,,,False
+GS 3,15,108,14,True
+Loge 121,FF,208,5,True
+94 RIGHT FIELD BOX,WW,132,19,True
+BLEACHER 37,20,1,19,True
+RF BOX 10-97,XX,,,False
+Right Field Box RFB6,D,66,1,True
+Right Field Box 97,DD,130,2,True
+Outfield Grandstand GS7,6,112,5,True
+G12,15,344,14,True
+RF BOX 96,RR,,,False
+Loge Box 98,QQ,141,11,True
+RFB 94,KK,132,7,True
+L38U,32,,,False
+Grandstands 16,1,341,0,True
+RFB 94,CC,132,1,True
+LB118,HH,157,7,True
+G7,5,112,4,True
+INFIELD GRANDSTAND 15,15,338,14,True
+GS 25,11,293,10,True
+RFB 94,XX,132,20,True
+Bleachers 36,22,2,21,True
+Infield Grandstand GS18,17,337,14,True
+G10,15,345,14,True
+LOGE BOX 112,FF,315,5,True
+LOGE BOX 119,GG,325,6,True
+R.F. BOX 4,J,68,3,True
+FBOX 78,H,116,7,True
+G3,18,108,17,True
+Field Box 74,E,122,4,True
+Field Box FB9,J,245,9,True
+Loge Box 147,JJ,11,8,True
+LOGE 107,LL,360,10,True
+Field Box 29,H,168,7,True
+Grandstands 14,09,339,8,True
+Grandstands 12,3,344,2,True
+R.F. BOX 93,FF,126,2,True
+GS 11,8,342,7,True
+PB5,D,319,3,True
+BLEACHER 37,15,1,14,True
+RFB 97,WW,130,19,True
+FBOX 20,C,167,2,True
+G12,5,344,4,True
+Loge 108,MM,51,11,True
+G9,16,114,15,True
+LOGE 147,JJ,11,8,True
+GS 8,1,115,0,True
+Infield Grandstand GS15,12,338,11,True
+L37U,34,,,False
+FBOX67,L,239,8,True
+Right Field Box RFB7,E,65,5,True
+ROOF 29,A,263,0,True
+Bleachers 37,18,1,17,True
+GS 27,17,247,16,True
+G9,01,114,0,True
+Bleachers 37,18,1,17,True
+Bleachers BL36,12,2,11,True
+Bleachers 41,16,281,14,True
+L41,19,,,False
+Right Field Box 7,F,65,6,True
+Grandstands 9,6,114,5,True
+G7,17,112,16,True
+Right Field Box RFB5,K,67,6,True
+FBOX 30,M,46,11,True
+RFB 93,AA-XX,,,False
+BL 38,13,6,12,True
+RIGHT FIELD BOX 93,AA-XX,,,False
+GS19,17,336,16,True
+L36U,28,,,False
+FBOX67,L,239,8,True
+PB5,D,319,3,True
+42,43,278,41,True
+Field Box 56,H,326,7,True
+Loge Box 162,MM,173,11,True
+GRANDSTAND 27,10,247,9,True
+RFB 93,KK,126,6,True
+GS 17,7,340,6,True
+Bleachers BL36,12,2,11,True
+Loge Box 139,KK,98,9,True
+G11,12,342,11,True
+L38U,36,,,False
+BLEACHER 37,16,1,15,True
+Right Field Box 94,HH,132,6,True
+Loge 144,JJ,10,8,True
+ROOF 25,C,17,2,True
+Outfield Grandstand GS10,11,345,10,True
+FIELD BOX 25,F,162,3,True
+Outfield Grandstand GS7,05,112,4,True
+LOGE BOX 161,FF,174,5,True
+30,12,179,11,True
+G29,6,301,5,True
+Grandstands 10,8,345,7,True
+L41U,49,,,False
+Right Field Box 93,KK,126,6,True
+Upper Bleachers 41,47,281,45,True
+16 GRANDSTAND,14,341,13,True
+LOGE BOX 121,DD,208,3,True
+94,LL,132,9,True
+Outfield Grandstand 32,15,,,False
+G7,12,112,11,True
+Grandstands 17,11,340,10,True
+LOGE 162,BB,173,1,True
+Grandstands 27,13,247,12,True
+Right Field Box 94,FF,132,4,True
+G4,1,111,0,True
+L38,10,,,False
+Infield Grandstand GS29,7,301,6,True
+12 FIELD BOX,A,268,0,True
+L41,19,,,False
+BL 37,4,1,3,True
+RFB 91,TT,128,13,True
+Infield Grandstand 24,5,243,4,True
+BL 36,15,2,14,True
+Grandstands 9,12,114,11,True
+Right Field Box 4,K,68,4,True
+Grandstands 9,4,114,3,True
+Pavilion Box PB10,B,79,1,True
+Grandstands 27,9,247,8,True
+BL 41,4,281,2,True
+BL 42,46,278,44,True
+RFB 8,J,25,9,True
+G10,06,345,5,True
+Infield Grandstand GS13,8,343,7,True
+Infield Grandstand GS18,10,337,9,True
+Loge 115,JJ,314,8,True
+PAV BOX 2,D,95,3,True
+Field Box 71,L,119,10,True
+Infield Grandstand 29,6,301,5,True
+RFB 93,HH,126,5,True
+Bleachers 37,8,1,7,True
+L37U,27,,,False
+Grandstands 27,10,247,9,True
+RFB 95,QQ,131,13,True
+GS 27,14,247,13,True
+Outfield Grandstand 8,17,115,16,True
+Loge 115,JJ,314,8,True
+LOGE 112,KK,315,9,True
+LOGE BOX 121,MM,208,11,True
+Field Box 16,B,272,1,True
+FBOX 14,A-M,,,False
+Field Box FB12,H,268,7,True
+FIELD BOX 9,C,245,3,True
+Bleachers 37,19,1,18,True
+GS 18,13,337,12,True
+G27,18,247,17,True
+BLEACHER 42,32,278,30,True
+L42,33,,,False
+LOGE 119,NN,325,12,True
+Bleachers BL43,25,279,23,True
+L37,21,,,False
+Right Field Box 93,GG,126,3,True
+BL 42,47,278,45,True
+FBOX 40,F,55,5,True
+RFB 97,FF,130,4,True
+Loge 121,CC,208,2,True
+Field Box 66,M,240,9,True
+FBOX 2,L,63,9,True
+Loge 116,LL,311,5,True
+FBOX 7,E,65,5,True
+Right Field Box RFB4,K,68,4,True
+Field Box 28,J,169,6,True
+L37U,28,,,False
+LOGE 152,EE,282,4,True
+Infield Grandstand 26,14,294,13,True
+Grandstands 5,9,197,8,True
+Grandstands 7,6,112,5,True
+G27,16,247,15,True
+INFIELD GRANDSTAND 15,15,338,14,True
+Field Box 66,M,240,9,True
+Grandstands 14,3,339,2,True
+Bleachers 42,24,278,22,True
+G9,05,114,4,True
+LOGE 101,KK,346,9,True
+BLEACHER 42,22,278,20,True
+BL 37,4,1,3,True
+F71,G,119,6,True
+BLEACHER 42,22,278,20,True
+GS 8,1,115,0,True
+Pavilion Box 8,B,85,1,True
+16 GRANDSTAND,13,341,12,True
+FBOX 34,H,42,7,True
+16 GRANDSTAND,13,341,12,True
+Bleachers 36,9,2,8,True
+Loge Box 117,FF,312,5,True
+Loge 159,BB,291,1,True
+Roof 25,B,17,1,True
+Right Field Box 2,D,63,2,True
+Infield Grandstand GS13,7,343,6,True
+Outfield Grandstand 6,1,113,0,True
+Right Field Box 93,LL,126,7,True
+Infield Grandstand GS30,6,179,5,True
+Bleachers BL41,49,281,47,True
+FIELD BOX 67,J,239,6,True
+Field Box 16,C,272,2,True
+GS19,9,336,8,True
+GS 29,13,301,12,True
+Outfield Grandstand GS1,12,107,11,True
+GS 23,17,252,14,True
+Infield Grandstand GS27,14,247,13,True
+Loge 159,DD,291,3,True
+FIELD BOX 75,A,123,0,True
+Grandstands 27,15,247,14,True
+Bleachers BL43,8,279,6,True
+Grandstands 9,3,114,2,True
+RFB 97,PP,130,12,True
+GS 15,8,338,7,True
+Field Box 27,M,160,9,True
+Grandstands 24,3,243,2,True
+GS21,16,297,15,True
+BL 42,17,278,15,True
+Loge 129,NN,204,12,True
+GS 15,11,338,10,True
+Grandstands 17,2,340,1,True
+Infield Grandstand GS14,4,339,3,True
+Grandstands 18,5,337,4,True
+Loge 106,DD,362,3,True
+Infield Grandstand GS13,10,343,9,True
+Grandstands 12,8,344,7,True
+Bleachers 38,16,6,15,True
+GS 13,7,343,6,True
+G10,16,345,15,True
+Right Field Box 95,DD,131,2,True
+Outfield Grandstand GS8,4,115,3,True
+FBOX 43,J,56,8,True
+GRANDSTAND 30,13,179,12,True
+PAV BOX 3,B,324,1,True
+Bleachers 42,16,278,14,True
+Bleachers 41,16,281,14,True
+LOGE 120,CC,209,2,True
+RFB 93,MM,126,8,True
+BLEACHER 41,20,281,18,True
+Grandstands 18,8,337,7,True
+GRANDSTAND 11,7,342,6,True
+BLEACHER 37,15,1,14,True
+Grandstands 29,14,301,13,True
+Infield Grandstand GS30,14,179,13,True
+FBOX 9,J,245,9,True
+BLEACHERS 37,7,1,6,True
+Loge Box 102,CC,361,2,True
+Loge Box 155,KK,289,9,True
+L38,22,,,False
+LOGE 112,HH,315,7,True
+Loge 161,DD,174,3,True
+Bleachers 37,17,1,16,True
+Infield Grandstand 23,14,252,13,True
+GS 27,4,247,3,True
+Loge Box 137,LL,106,10,True
+Grandstands 15,12,338,11,True
+GS 24,4,243,3,True
+Grandstands 8,16,115,15,True
+GS 27,4,247,3,True
+R.F. BOX 93,PP,126,10,True
+Outfield Grandstand GS7,1,112,0,True
+Bleachers BL37,12,1,11,True
+Loge Box 112,NN,315,12,True
+Infield Grandstand GS12,11,344,10,True
+LOGE BOX 161,FF,174,5,True
+R.F. BOX 93,KK,126,6,True
+FBOX 2,L,63,9,True
+Bleachers 43,28,279,26,True
+Field Box FB13,J,269,8,True
+Loge Box 109,NN,50,12,True
+FBOX 65,E,241,2,True
+Loge Box 112,KK,315,9,True
+RF BOX 95,WW,131,19,True
+Infield Grandstand 29,6,301,5,True
+Bleachers 41,13,281,11,True
+Bleachers 42,16,278,14,True
+Grandstands 16,1,341,0,True
+RFB 95,HH,131,6,True
+Grandstands 25,10,293,9,True
+Outfield Grandstand GS10,05,345,4,True
+Field Box 66,M,240,9,True
+Right Field Box 94,QQ,132,13,True
+GS 7,1,112,0,True
+Bleachers 42,40,278,38,True
+GS 9,3,114,2,True
+Right Field Box 2,E,63,3,True

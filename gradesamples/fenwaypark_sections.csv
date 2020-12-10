@@ -1,0 +1,3393 @@
+section_id,section_name,row_id,row_name
+1,Bleacher 37,23,24
+1,Bleacher 37,24,25
+1,Bleacher 37,25,26
+1,Bleacher 37,26,27
+1,Bleacher 37,19,20
+1,Bleacher 37,20,21
+1,Bleacher 37,21,22
+1,Bleacher 37,22,23
+1,Bleacher 37,27,28
+1,Bleacher 37,28,29
+1,Bleacher 37,39,40
+1,Bleacher 37,0,1
+1,Bleacher 37,2,3
+1,Bleacher 37,1,2
+1,Bleacher 37,4,5
+1,Bleacher 37,3,4
+1,Bleacher 37,6,7
+1,Bleacher 37,5,6
+1,Bleacher 37,8,9
+1,Bleacher 37,7,8
+1,Bleacher 37,12,13
+1,Bleacher 37,11,12
+1,Bleacher 37,10,11
+1,Bleacher 37,9,10
+1,Bleacher 37,38,39
+1,Bleacher 37,37,38
+1,Bleacher 37,14,15
+1,Bleacher 37,13,14
+1,Bleacher 37,16,17
+1,Bleacher 37,15,16
+1,Bleacher 37,18,19
+1,Bleacher 37,17,18
+1,Bleacher 37,30,31
+1,Bleacher 37,29,30
+1,Bleacher 37,36,37
+1,Bleacher 37,35,36
+1,Bleacher 37,34,35
+1,Bleacher 37,33,34
+1,Bleacher 37,32,33
+1,Bleacher 37,31,32
+2,Bleacher 36,23,24
+2,Bleacher 36,24,25
+2,Bleacher 36,25,26
+2,Bleacher 36,26,27
+2,Bleacher 36,19,20
+2,Bleacher 36,20,21
+2,Bleacher 36,21,22
+2,Bleacher 36,22,23
+2,Bleacher 36,27,28
+2,Bleacher 36,28,29
+2,Bleacher 36,0,1
+2,Bleacher 36,2,3
+2,Bleacher 36,1,2
+2,Bleacher 36,4,5
+2,Bleacher 36,3,4
+2,Bleacher 36,6,7
+2,Bleacher 36,5,6
+2,Bleacher 36,8,9
+2,Bleacher 36,7,8
+2,Bleacher 36,10,11
+2,Bleacher 36,9,10
+2,Bleacher 36,12,13
+2,Bleacher 36,11,12
+2,Bleacher 36,14,15
+2,Bleacher 36,13,14
+2,Bleacher 36,16,17
+2,Bleacher 36,15,16
+2,Bleacher 36,18,19
+2,Bleacher 36,17,18
+2,Bleacher 36,29,30
+3,Bleacher 35,10,11
+3,Bleacher 35,9,10
+3,Bleacher 35,12,13
+3,Bleacher 35,11,12
+3,Bleacher 35,14,15
+3,Bleacher 35,13,14
+3,Bleacher 35,16,17
+3,Bleacher 35,15,16
+3,Bleacher 35,18,19
+3,Bleacher 35,17,18
+3,Bleacher 35,0,1
+3,Bleacher 35,2,3
+3,Bleacher 35,1,2
+3,Bleacher 35,4,5
+3,Bleacher 35,3,4
+3,Bleacher 35,6,7
+3,Bleacher 35,5,6
+3,Bleacher 35,8,9
+3,Bleacher 35,7,8
+4,Bleacher 34,9,10
+4,Bleacher 34,0,1
+4,Bleacher 34,2,3
+4,Bleacher 34,1,2
+4,Bleacher 34,4,5
+4,Bleacher 34,3,4
+4,Bleacher 34,6,7
+4,Bleacher 34,5,6
+4,Bleacher 34,8,9
+4,Bleacher 34,7,8
+5,Bleacher 39,10,30
+5,Bleacher 39,8,28
+5,Bleacher 39,9,29
+5,Bleacher 39,4,24
+5,Bleacher 39,5,25
+5,Bleacher 39,6,26
+5,Bleacher 39,7,27
+5,Bleacher 39,0,20
+5,Bleacher 39,1,21
+5,Bleacher 39,2,22
+5,Bleacher 39,3,23
+5,Bleacher 39,26,46
+5,Bleacher 39,27,47
+5,Bleacher 39,24,44
+5,Bleacher 39,25,45
+5,Bleacher 39,22,42
+5,Bleacher 39,23,43
+5,Bleacher 39,20,40
+5,Bleacher 39,21,41
+5,Bleacher 39,19,39
+5,Bleacher 39,18,38
+5,Bleacher 39,28,48
+5,Bleacher 39,13,33
+5,Bleacher 39,12,32
+5,Bleacher 39,11,31
+5,Bleacher 39,29,49
+5,Bleacher 39,17,37
+5,Bleacher 39,16,36
+5,Bleacher 39,15,35
+5,Bleacher 39,14,34
+5,Bleacher 39,30,50
+6,Bleacher 38,23,24
+6,Bleacher 38,24,25
+6,Bleacher 38,25,26
+6,Bleacher 38,26,27
+6,Bleacher 38,19,20
+6,Bleacher 38,20,21
+6,Bleacher 38,21,22
+6,Bleacher 38,22,23
+6,Bleacher 38,27,28
+6,Bleacher 38,28,29
+6,Bleacher 38,39,40
+6,Bleacher 38,0,1
+6,Bleacher 38,2,3
+6,Bleacher 38,1,2
+6,Bleacher 38,4,5
+6,Bleacher 38,3,4
+6,Bleacher 38,6,7
+6,Bleacher 38,5,6
+6,Bleacher 38,8,9
+6,Bleacher 38,7,8
+6,Bleacher 38,12,13
+6,Bleacher 38,11,12
+6,Bleacher 38,10,11
+6,Bleacher 38,9,10
+6,Bleacher 38,38,39
+6,Bleacher 38,37,38
+6,Bleacher 38,14,15
+6,Bleacher 38,13,14
+6,Bleacher 38,16,17
+6,Bleacher 38,15,16
+6,Bleacher 38,18,19
+6,Bleacher 38,17,18
+6,Bleacher 38,30,31
+6,Bleacher 38,29,30
+6,Bleacher 38,36,37
+6,Bleacher 38,35,36
+6,Bleacher 38,34,35
+6,Bleacher 38,33,34
+6,Bleacher 38,32,33
+6,Bleacher 38,31,32
+7,Loge Box 149,0,Aa
+7,Loge Box 149,5,Ff
+7,Loge Box 149,1,Bb
+7,Loge Box 149,4,Ee
+7,Loge Box 149,10,Ll
+7,Loge Box 149,6,Gg
+7,Loge Box 149,11,Mm
+7,Loge Box 149,7,Hh
+7,Loge Box 149,9,Kk
+7,Loge Box 149,8,Jj
+7,Loge Box 149,12,Nn
+7,Loge Box 149,3,Dd
+7,Loge Box 149,2,Cc
+8,Loge Box 148,0,Aa
+8,Loge Box 148,5,Ff
+8,Loge Box 148,1,Bb
+8,Loge Box 148,4,Ee
+8,Loge Box 148,10,Ll
+8,Loge Box 148,6,Gg
+8,Loge Box 148,11,Mm
+8,Loge Box 148,7,Hh
+8,Loge Box 148,9,Kk
+8,Loge Box 148,8,Jj
+8,Loge Box 148,12,Nn
+8,Loge Box 148,3,Dd
+8,Loge Box 148,2,Cc
+9,Loge Box 145,0,Aa
+9,Loge Box 145,5,Ff
+9,Loge Box 145,1,Bb
+9,Loge Box 145,4,Ee
+9,Loge Box 145,10,Ll
+9,Loge Box 145,6,Gg
+9,Loge Box 145,11,Mm
+9,Loge Box 145,7,Hh
+9,Loge Box 145,9,Kk
+9,Loge Box 145,8,Jj
+9,Loge Box 145,12,Nn
+9,Loge Box 145,3,Dd
+9,Loge Box 145,2,Cc
+10,Loge Box 144,0,Aa
+10,Loge Box 144,5,Ff
+10,Loge Box 144,1,Bb
+10,Loge Box 144,4,Ee
+10,Loge Box 144,10,Ll
+10,Loge Box 144,6,Gg
+10,Loge Box 144,11,Mm
+10,Loge Box 144,7,Hh
+10,Loge Box 144,9,Kk
+10,Loge Box 144,8,Jj
+10,Loge Box 144,12,Nn
+10,Loge Box 144,3,Dd
+10,Loge Box 144,2,Cc
+11,Loge Box 147,0,Aa
+11,Loge Box 147,5,Ff
+11,Loge Box 147,1,Bb
+11,Loge Box 147,4,Ee
+11,Loge Box 147,10,Ll
+11,Loge Box 147,6,Gg
+11,Loge Box 147,11,Mm
+11,Loge Box 147,7,Hh
+11,Loge Box 147,9,Kk
+11,Loge Box 147,8,Jj
+11,Loge Box 147,12,Nn
+11,Loge Box 147,3,Dd
+11,Loge Box 147,2,Cc
+12,Loge Box 146,3,Jj
+12,Loge Box 146,7,Nn
+12,Loge Box 146,4,Kk
+12,Loge Box 146,5,Ll
+12,Loge Box 146,1,Gg
+12,Loge Box 146,6,Mm
+12,Loge Box 146,2,Hh
+12,Loge Box 146,0,Ff
+13,Loge Box 141,0,Aa
+13,Loge Box 141,5,Ff
+13,Loge Box 141,1,Bb
+13,Loge Box 141,4,Ee
+13,Loge Box 141,10,Ll
+13,Loge Box 141,6,Gg
+13,Loge Box 141,11,Mm
+13,Loge Box 141,7,Hh
+13,Loge Box 141,9,Kk
+13,Loge Box 141,8,Jj
+13,Loge Box 141,12,Nn
+13,Loge Box 141,3,Dd
+13,Loge Box 141,2,Cc
+14,Loge Box 140,0,Aa
+14,Loge Box 140,5,Ff
+14,Loge Box 140,1,Bb
+14,Loge Box 140,4,Ee
+14,Loge Box 140,10,Ll
+14,Loge Box 140,6,Gg
+14,Loge Box 140,11,Mm
+14,Loge Box 140,7,Hh
+14,Loge Box 140,9,Kk
+14,Loge Box 140,8,Jj
+14,Loge Box 140,12,Nn
+14,Loge Box 140,3,Dd
+14,Loge Box 140,2,Cc
+15,Loge Box 143,0,Aa
+15,Loge Box 143,5,Ff
+15,Loge Box 143,1,Bb
+15,Loge Box 143,4,Ee
+15,Loge Box 143,10,Ll
+15,Loge Box 143,6,Gg
+15,Loge Box 143,11,Mm
+15,Loge Box 143,7,Hh
+15,Loge Box 143,9,Kk
+15,Loge Box 143,8,Jj
+15,Loge Box 143,12,Nn
+15,Loge Box 143,3,Dd
+15,Loge Box 143,2,Cc
+16,Loge Box 142,0,Aa
+16,Loge Box 142,5,Ff
+16,Loge Box 142,1,Bb
+16,Loge Box 142,4,Ee
+16,Loge Box 142,10,Ll
+16,Loge Box 142,6,Gg
+16,Loge Box 142,11,Mm
+16,Loge Box 142,7,Hh
+16,Loge Box 142,9,Kk
+16,Loge Box 142,8,Jj
+16,Loge Box 142,12,Nn
+16,Loge Box 142,3,Dd
+16,Loge Box 142,2,Cc
+17,Right Field Roof Box 25,0,A
+17,Right Field Roof Box 25,2,C
+17,Right Field Roof Box 25,1,B
+17,Right Field Roof Box 25,4,E
+17,Right Field Roof Box 25,3,D
+17,Right Field Roof Box 25,6,G
+17,Right Field Roof Box 25,5,F
+18,Right Field Box 87,11,Qq
+18,Right Field Box 87,3,Gg
+18,Right Field Box 87,10,Pp
+18,Right Field Box 87,12,Rr
+18,Right Field Box 87,9,Nn
+18,Right Field Box 87,8,Mm
+18,Right Field Box 87,7,Ll
+18,Right Field Box 87,2,Ff
+18,Right Field Box 87,18,Xx
+18,Right Field Box 87,17,Ww
+18,Right Field Box 87,1,Ee
+18,Right Field Box 87,4,Hh
+18,Right Field Box 87,0,Dd
+18,Right Field Box 87,6,Kk
+18,Right Field Box 87,5,Jj
+18,Right Field Box 87,16,Vv
+18,Right Field Box 87,15,Uu
+18,Right Field Box 87,13,Ss
+18,Right Field Box 87,14,Tt
+19,Right Field Box 88,11,Qq
+19,Right Field Box 88,3,Gg
+19,Right Field Box 88,10,Pp
+19,Right Field Box 88,12,Rr
+19,Right Field Box 88,9,Nn
+19,Right Field Box 88,8,Mm
+19,Right Field Box 88,7,Ll
+19,Right Field Box 88,2,Ff
+19,Right Field Box 88,18,Xx
+19,Right Field Box 88,17,Ww
+19,Right Field Box 88,1,Ee
+19,Right Field Box 88,4,Hh
+19,Right Field Box 88,0,Dd
+19,Right Field Box 88,6,Kk
+19,Right Field Box 88,5,Jj
+19,Right Field Box 88,16,Vv
+19,Right Field Box 88,15,Uu
+19,Right Field Box 88,13,Ss
+19,Right Field Box 88,14,Tt
+20,Right Field Box 89,11,Qq
+20,Right Field Box 89,3,Gg
+20,Right Field Box 89,10,Pp
+20,Right Field Box 89,12,Rr
+20,Right Field Box 89,9,Nn
+20,Right Field Box 89,8,Mm
+20,Right Field Box 89,7,Ll
+20,Right Field Box 89,2,Ff
+20,Right Field Box 89,18,Xx
+20,Right Field Box 89,17,Ww
+20,Right Field Box 89,1,Ee
+20,Right Field Box 89,4,Hh
+20,Right Field Box 89,0,Dd
+20,Right Field Box 89,6,Kk
+20,Right Field Box 89,5,Jj
+20,Right Field Box 89,16,Vv
+20,Right Field Box 89,15,Uu
+20,Right Field Box 89,13,Ss
+20,Right Field Box 89,14,Tt
+21,Right Field Pavilion 15,,
+22,Right Field Roof Box 23,0,A
+22,Right Field Roof Box 23,2,C
+22,Right Field Roof Box 23,1,B
+22,Right Field Roof Box 23,4,E
+22,Right Field Roof Box 23,3,D
+22,Right Field Roof Box 23,6,G
+22,Right Field Roof Box 23,5,F
+23,Dugout Box 80,0,1
+23,Dugout Box 80,1,2
+24,Dugout Box 81,0,1
+24,Dugout Box 81,1,2
+25,Right Field Box 8,1,A
+25,Right Field Box 8,3,C
+25,Right Field Box 8,2,B
+25,Right Field Box 8,5,E
+25,Right Field Box 8,4,D
+25,Right Field Box 8,7,G
+25,Right Field Box 8,6,F
+25,Right Field Box 8,8,H
+25,Right Field Box 8,10,K
+25,Right Field Box 8,9,J
+25,Right Field Box 8,0,1
+26,Right Field Box 3,3,C
+26,Right Field Box 3,2,B
+26,Right Field Box 3,0,E
+26,Right Field Box 3,4,D
+26,Right Field Box 3,5,G
+26,Right Field Box 3,1,F
+26,Right Field Box 3,6,H
+26,Right Field Box 3,8,K
+26,Right Field Box 3,7,J
+26,Right Field Box 3,9,N
+27,Field Box 48,0,A
+27,Field Box 48,2,C
+27,Field Box 48,1,B
+27,Field Box 48,4,E
+27,Field Box 48,3,D
+27,Field Box 48,6,G
+27,Field Box 48,5,F
+27,Field Box 48,7,H
+27,Field Box 48,9,K
+27,Field Box 48,8,J
+27,Field Box 48,11,M
+27,Field Box 48,10,L
+28,Dugout Box 60,0,1
+28,Dugout Box 60,1,2
+29,Dugout Box 61,0,1
+29,Dugout Box 61,1,2
+30,Terrace A,,
+31,Terrace B,,
+32,Emc Suite Right 11,,
+33,Emc Suite Right 10,,
+34,Emc Suite Right 13,,
+35,Emc Suite Right 12,,
+36,Emc Suite Right 15,,
+37,Emc Suite Right 14,,
+38,Emc Suite Right 17,,
+39,Emc Suite Right 16,,
+40,Emc Suite Right 19,,
+41,Emc Suite Right 18,,
+42,Field Box 34,0,A
+42,Field Box 34,2,C
+42,Field Box 34,1,B
+42,Field Box 34,4,E
+42,Field Box 34,3,D
+42,Field Box 34,6,G
+42,Field Box 34,5,F
+42,Field Box 34,7,H
+42,Field Box 34,9,K
+42,Field Box 34,8,J
+42,Field Box 34,11,M
+42,Field Box 34,10,L
+43,Field Box 35,0,A
+43,Field Box 35,2,C
+43,Field Box 35,1,B
+43,Field Box 35,4,E
+43,Field Box 35,3,D
+43,Field Box 35,6,G
+43,Field Box 35,5,F
+43,Field Box 35,7,H
+43,Field Box 35,9,K
+43,Field Box 35,8,J
+43,Field Box 35,11,M
+43,Field Box 35,10,L
+44,Field Box 36,0,A
+44,Field Box 36,2,C
+44,Field Box 36,1,B
+44,Field Box 36,4,E
+44,Field Box 36,3,D
+44,Field Box 36,6,G
+44,Field Box 36,5,F
+44,Field Box 36,7,H
+44,Field Box 36,9,K
+44,Field Box 36,8,J
+44,Field Box 36,11,M
+44,Field Box 36,10,L
+45,Field Box 37,0,A
+45,Field Box 37,2,C
+45,Field Box 37,1,B
+45,Field Box 37,4,E
+45,Field Box 37,3,D
+45,Field Box 37,6,G
+45,Field Box 37,5,F
+45,Field Box 37,7,H
+45,Field Box 37,9,K
+45,Field Box 37,8,J
+45,Field Box 37,11,M
+45,Field Box 37,10,L
+46,Field Box 30,0,A
+46,Field Box 30,2,C
+46,Field Box 30,1,B
+46,Field Box 30,4,E
+46,Field Box 30,3,D
+46,Field Box 30,6,G
+46,Field Box 30,5,F
+46,Field Box 30,7,H
+46,Field Box 30,9,K
+46,Field Box 30,8,J
+46,Field Box 30,11,M
+46,Field Box 30,10,L
+47,Field Box 31,0,A
+47,Field Box 31,2,C
+47,Field Box 31,1,B
+47,Field Box 31,4,E
+47,Field Box 31,3,D
+47,Field Box 31,6,G
+47,Field Box 31,5,F
+47,Field Box 31,7,H
+47,Field Box 31,9,K
+47,Field Box 31,8,J
+47,Field Box 31,11,M
+47,Field Box 31,10,L
+48,Field Box 32,0,A
+48,Field Box 32,2,C
+48,Field Box 32,1,B
+48,Field Box 32,4,E
+48,Field Box 32,3,D
+48,Field Box 32,6,G
+48,Field Box 32,5,F
+48,Field Box 32,7,H
+48,Field Box 32,9,K
+48,Field Box 32,8,J
+48,Field Box 32,11,M
+48,Field Box 32,10,L
+49,Field Box 33,0,A
+49,Field Box 33,2,C
+49,Field Box 33,1,B
+49,Field Box 33,4,E
+49,Field Box 33,3,D
+49,Field Box 33,6,G
+49,Field Box 33,5,F
+49,Field Box 33,7,H
+49,Field Box 33,9,K
+49,Field Box 33,8,J
+49,Field Box 33,11,M
+49,Field Box 33,10,L
+50,Loge Box 109,0,Aa
+50,Loge Box 109,5,Ff
+50,Loge Box 109,1,Bb
+50,Loge Box 109,4,Ee
+50,Loge Box 109,10,Ll
+50,Loge Box 109,6,Gg
+50,Loge Box 109,11,Mm
+50,Loge Box 109,7,Hh
+50,Loge Box 109,9,Kk
+50,Loge Box 109,8,Jj
+50,Loge Box 109,12,Nn
+50,Loge Box 109,3,Dd
+50,Loge Box 109,2,Cc
+51,Loge Box 108,0,Aa
+51,Loge Box 108,5,Ff
+51,Loge Box 108,1,Bb
+51,Loge Box 108,4,Ee
+51,Loge Box 108,10,Ll
+51,Loge Box 108,6,Gg
+51,Loge Box 108,11,Mm
+51,Loge Box 108,7,Hh
+51,Loge Box 108,9,Kk
+51,Loge Box 108,8,Jj
+51,Loge Box 108,12,Nn
+51,Loge Box 108,3,Dd
+51,Loge Box 108,2,Cc
+52,Field Box 38,0,A
+52,Field Box 38,2,C
+52,Field Box 38,1,B
+52,Field Box 38,4,E
+52,Field Box 38,3,D
+52,Field Box 38,6,G
+52,Field Box 38,5,F
+52,Field Box 38,7,H
+52,Field Box 38,9,K
+52,Field Box 38,8,J
+52,Field Box 38,11,M
+52,Field Box 38,10,L
+53,Field Box 39,0,A
+53,Field Box 39,2,C
+53,Field Box 39,1,B
+53,Field Box 39,4,E
+53,Field Box 39,3,D
+53,Field Box 39,6,G
+53,Field Box 39,5,F
+53,Field Box 39,7,H
+53,Field Box 39,9,K
+53,Field Box 39,8,J
+53,Field Box 39,11,M
+53,Field Box 39,10,L
+54,Field Box 41,0,A
+54,Field Box 41,2,C
+54,Field Box 41,1,B
+54,Field Box 41,4,E
+54,Field Box 41,3,D
+54,Field Box 41,6,G
+54,Field Box 41,5,F
+54,Field Box 41,7,H
+54,Field Box 41,9,K
+54,Field Box 41,8,J
+54,Field Box 41,11,M
+54,Field Box 41,10,L
+55,Field Box 40,0,A
+55,Field Box 40,2,C
+55,Field Box 40,1,B
+55,Field Box 40,4,E
+55,Field Box 40,3,D
+55,Field Box 40,6,G
+55,Field Box 40,5,F
+55,Field Box 40,7,H
+55,Field Box 40,9,K
+55,Field Box 40,8,J
+55,Field Box 40,11,M
+55,Field Box 40,10,L
+56,Field Box 43,0,A
+56,Field Box 43,2,C
+56,Field Box 43,1,B
+56,Field Box 43,4,E
+56,Field Box 43,3,D
+56,Field Box 43,6,G
+56,Field Box 43,5,F
+56,Field Box 43,7,H
+56,Field Box 43,9,K
+56,Field Box 43,8,J
+56,Field Box 43,11,M
+56,Field Box 43,10,L
+57,Field Box 42,0,A
+57,Field Box 42,2,C
+57,Field Box 42,1,B
+57,Field Box 42,4,E
+57,Field Box 42,3,D
+57,Field Box 42,6,G
+57,Field Box 42,5,F
+57,Field Box 42,7,H
+57,Field Box 42,9,K
+57,Field Box 42,8,J
+57,Field Box 42,11,M
+57,Field Box 42,10,L
+58,Field Box 45,0,A
+58,Field Box 45,2,C
+58,Field Box 45,1,B
+58,Field Box 45,4,E
+58,Field Box 45,3,D
+58,Field Box 45,6,G
+58,Field Box 45,5,F
+58,Field Box 45,7,H
+58,Field Box 45,9,K
+58,Field Box 45,8,J
+58,Field Box 45,11,M
+58,Field Box 45,10,L
+59,Field Box 44,0,A
+59,Field Box 44,2,C
+59,Field Box 44,1,B
+59,Field Box 44,4,E
+59,Field Box 44,3,D
+59,Field Box 44,6,G
+59,Field Box 44,5,F
+59,Field Box 44,7,H
+59,Field Box 44,9,K
+59,Field Box 44,8,J
+59,Field Box 44,11,M
+59,Field Box 44,10,L
+60,Field Box 47,0,A
+60,Field Box 47,2,C
+60,Field Box 47,1,B
+60,Field Box 47,4,E
+60,Field Box 47,3,D
+60,Field Box 47,6,G
+60,Field Box 47,5,F
+60,Field Box 47,7,H
+60,Field Box 47,9,K
+60,Field Box 47,8,J
+60,Field Box 47,11,M
+60,Field Box 47,10,L
+61,Field Box 46,0,A
+61,Field Box 46,2,C
+61,Field Box 46,1,B
+61,Field Box 46,4,E
+61,Field Box 46,3,D
+61,Field Box 46,6,G
+61,Field Box 46,5,F
+61,Field Box 46,7,H
+61,Field Box 46,9,K
+61,Field Box 46,8,J
+61,Field Box 46,11,M
+61,Field Box 46,10,L
+62,Field Box 49,0,A
+62,Field Box 49,2,C
+62,Field Box 49,1,B
+62,Field Box 49,4,E
+62,Field Box 49,3,D
+62,Field Box 49,6,G
+62,Field Box 49,5,F
+62,Field Box 49,7,H
+62,Field Box 49,9,K
+62,Field Box 49,8,J
+62,Field Box 49,11,M
+62,Field Box 49,10,L
+63,Right Field Box 2,1,C
+63,Right Field Box 2,0,B
+63,Right Field Box 2,3,E
+63,Right Field Box 2,2,D
+63,Right Field Box 2,5,G
+63,Right Field Box 2,4,F
+63,Right Field Box 2,6,H
+63,Right Field Box 2,8,K
+63,Right Field Box 2,7,J
+63,Right Field Box 2,10,M
+63,Right Field Box 2,9,L
+63,Right Field Box 2,11,N
+64,Right Field Box 1,1,C
+64,Right Field Box 1,0,B
+64,Right Field Box 1,3,E
+64,Right Field Box 1,2,D
+64,Right Field Box 1,5,G
+64,Right Field Box 1,4,F
+64,Right Field Box 1,6,H
+64,Right Field Box 1,8,K
+64,Right Field Box 1,7,J
+64,Right Field Box 1,10,M
+64,Right Field Box 1,9,L
+64,Right Field Box 1,11,N
+65,Right Field Box 7,1,A
+65,Right Field Box 7,3,C
+65,Right Field Box 7,2,B
+65,Right Field Box 7,5,E
+65,Right Field Box 7,4,D
+65,Right Field Box 7,7,G
+65,Right Field Box 7,6,F
+65,Right Field Box 7,8,H
+65,Right Field Box 7,10,K
+65,Right Field Box 7,9,J
+65,Right Field Box 7,0,1
+66,Right Field Box 6,0,C
+66,Right Field Box 6,2,E
+66,Right Field Box 6,1,D
+66,Right Field Box 6,4,G
+66,Right Field Box 6,3,F
+66,Right Field Box 6,5,H
+66,Right Field Box 6,6,J
+67,Right Field Box 5,1,G
+67,Right Field Box 5,0,F
+67,Right Field Box 5,3,H
+67,Right Field Box 5,6,K
+67,Right Field Box 5,5,J
+67,Right Field Box 5,4,M
+67,Right Field Box 5,2,L
+67,Right Field Box 5,7,N
+68,Right Field Box 4,1,G
+68,Right Field Box 4,0,F
+68,Right Field Box 4,2,H
+68,Right Field Box 4,4,K
+68,Right Field Box 4,3,J
+68,Right Field Box 4,5,N
+69,State Street Pavilion Club 12,0,1
+69,State Street Pavilion Club 12,2,3
+69,State Street Pavilion Club 12,1,2
+69,State Street Pavilion Club 12,4,5
+69,State Street Pavilion Club 12,3,4
+70,State Street Pavilion Club 13,0,1
+70,State Street Pavilion Club 13,2,3
+70,State Street Pavilion Club 13,1,2
+70,State Street Pavilion Club 13,4,5
+70,State Street Pavilion Club 13,3,4
+71,State Street Pavilion Club 10,0,1
+71,State Street Pavilion Club 10,2,3
+71,State Street Pavilion Club 10,1,2
+71,State Street Pavilion Club 10,4,5
+71,State Street Pavilion Club 10,3,4
+72,State Street Pavilion Club 11,0,1
+72,State Street Pavilion Club 11,2,3
+72,State Street Pavilion Club 11,1,2
+72,State Street Pavilion Club 11,4,5
+72,State Street Pavilion Club 11,3,4
+73,State Street Pavilion Club 14,0,1
+73,State Street Pavilion Club 14,2,3
+73,State Street Pavilion Club 14,1,2
+73,State Street Pavilion Club 14,4,5
+73,State Street Pavilion Club 14,3,4
+74,Pavilion Suite K 4,,
+75,Pavilion Suite K 2,,
+76,Pavilion Suite K 3,,
+77,Pavilion Suite K 1,,
+78,Pavilion Box 11,0,A
+78,Pavilion Box 11,2,C
+78,Pavilion Box 11,1,B
+79,Pavilion Box 10,0,A
+79,Pavilion Box 10,2,C
+79,Pavilion Box 10,1,B
+79,Pavilion Box 10,4,E
+79,Pavilion Box 10,3,D
+80,Pavilion Box 13,0,A
+80,Pavilion Box 13,2,C
+80,Pavilion Box 13,1,B
+81,Pavilion Box 12,0,A
+81,Pavilion Box 12,2,C
+81,Pavilion Box 12,1,B
+82,Pavilion Box 14,0,A
+82,Pavilion Box 14,2,C
+82,Pavilion Box 14,1,B
+83,Dugout Box 29,0,1
+83,Dugout Box 29,1,2
+84,Pavilion Box 9,0,A
+84,Pavilion Box 9,2,C
+84,Pavilion Box 9,1,B
+84,Pavilion Box 9,4,E
+84,Pavilion Box 9,3,D
+85,Pavilion Box 8,0,A
+85,Pavilion Box 8,2,C
+85,Pavilion Box 8,1,B
+85,Pavilion Box 8,4,E
+85,Pavilion Box 8,3,D
+86,Emc Suite Right 1,,
+87,Emc Suite Right 3,,
+88,Emc Suite Right 2,,
+89,Emc Suite Right 5,,
+90,Emc Suite Right 4,,
+91,Emc Suite Right 7,,
+92,Emc Suite Right 6,,
+93,Emc Suite Right 9,,
+94,Emc Suite Right 8,,
+95,Pavilion Box 2,0,A
+95,Pavilion Box 2,2,C
+95,Pavilion Box 2,1,B
+95,Pavilion Box 2,4,E
+95,Pavilion Box 2,3,D
+96,Roof Deck Tables,,
+97,Loge Box 138,0,Aa
+97,Loge Box 138,5,Ff
+97,Loge Box 138,1,Bb
+97,Loge Box 138,4,Ee
+97,Loge Box 138,10,Ll
+97,Loge Box 138,6,Gg
+97,Loge Box 138,11,Mm
+97,Loge Box 138,7,Hh
+97,Loge Box 138,9,Kk
+97,Loge Box 138,8,Jj
+97,Loge Box 138,12,Nn
+97,Loge Box 138,3,Dd
+97,Loge Box 138,2,Cc
+98,Loge Box 139,0,Aa
+98,Loge Box 139,5,Ff
+98,Loge Box 139,1,Bb
+98,Loge Box 139,4,Ee
+98,Loge Box 139,10,Ll
+98,Loge Box 139,6,Gg
+98,Loge Box 139,11,Mm
+98,Loge Box 139,7,Hh
+98,Loge Box 139,9,Kk
+98,Loge Box 139,8,Jj
+98,Loge Box 139,12,Nn
+98,Loge Box 139,3,Dd
+98,Loge Box 139,2,Cc
+99,Loge Box 130,0,Aa
+99,Loge Box 130,5,Ff
+99,Loge Box 130,1,Bb
+99,Loge Box 130,4,Ee
+99,Loge Box 130,10,Ll
+99,Loge Box 130,6,Gg
+99,Loge Box 130,11,Mm
+99,Loge Box 130,7,Hh
+99,Loge Box 130,9,Kk
+99,Loge Box 130,8,Jj
+99,Loge Box 130,12,Nn
+99,Loge Box 130,3,Dd
+99,Loge Box 130,2,Cc
+100,Loge Box 131,0,Aa
+100,Loge Box 131,5,Ff
+100,Loge Box 131,1,Bb
+100,Loge Box 131,4,Ee
+100,Loge Box 131,10,Ll
+100,Loge Box 131,6,Gg
+100,Loge Box 131,11,Mm
+100,Loge Box 131,7,Hh
+100,Loge Box 131,9,Kk
+100,Loge Box 131,8,Jj
+100,Loge Box 131,12,Nn
+100,Loge Box 131,3,Dd
+100,Loge Box 131,2,Cc
+101,Loge Box 132,0,Aa
+101,Loge Box 132,5,Ff
+101,Loge Box 132,1,Bb
+101,Loge Box 132,4,Ee
+101,Loge Box 132,10,Ll
+101,Loge Box 132,6,Gg
+101,Loge Box 132,11,Mm
+101,Loge Box 132,7,Hh
+101,Loge Box 132,9,Kk
+101,Loge Box 132,8,Jj
+101,Loge Box 132,12,Nn
+101,Loge Box 132,3,Dd
+101,Loge Box 132,2,Cc
+102,Loge Box 133,0,Aa
+102,Loge Box 133,5,Ff
+102,Loge Box 133,1,Bb
+102,Loge Box 133,4,Ee
+102,Loge Box 133,10,Ll
+102,Loge Box 133,6,Gg
+102,Loge Box 133,11,Mm
+102,Loge Box 133,7,Hh
+102,Loge Box 133,9,Kk
+102,Loge Box 133,8,Jj
+102,Loge Box 133,12,Nn
+102,Loge Box 133,3,Dd
+102,Loge Box 133,2,Cc
+103,Loge Box 134,0,Aa
+103,Loge Box 134,5,Ff
+103,Loge Box 134,1,Bb
+103,Loge Box 134,4,Ee
+103,Loge Box 134,10,Ll
+103,Loge Box 134,6,Gg
+103,Loge Box 134,11,Mm
+103,Loge Box 134,7,Hh
+103,Loge Box 134,9,Kk
+103,Loge Box 134,8,Jj
+103,Loge Box 134,12,Nn
+103,Loge Box 134,3,Dd
+103,Loge Box 134,2,Cc
+104,Loge Box 135,0,Aa
+104,Loge Box 135,5,Ff
+104,Loge Box 135,1,Bb
+104,Loge Box 135,4,Ee
+104,Loge Box 135,10,Ll
+104,Loge Box 135,6,Gg
+104,Loge Box 135,11,Mm
+104,Loge Box 135,7,Hh
+104,Loge Box 135,9,Kk
+104,Loge Box 135,8,Jj
+104,Loge Box 135,12,Nn
+104,Loge Box 135,3,Dd
+104,Loge Box 135,2,Cc
+105,Loge Box 136,0,Aa
+105,Loge Box 136,5,Ff
+105,Loge Box 136,1,Bb
+105,Loge Box 136,4,Ee
+105,Loge Box 136,10,Ll
+105,Loge Box 136,6,Gg
+105,Loge Box 136,11,Mm
+105,Loge Box 136,7,Hh
+105,Loge Box 136,9,Kk
+105,Loge Box 136,8,Jj
+105,Loge Box 136,12,Nn
+105,Loge Box 136,3,Dd
+105,Loge Box 136,2,Cc
+106,Loge Box 137,0,Aa
+106,Loge Box 137,5,Ff
+106,Loge Box 137,1,Bb
+106,Loge Box 137,4,Ee
+106,Loge Box 137,10,Ll
+106,Loge Box 137,6,Gg
+106,Loge Box 137,11,Mm
+106,Loge Box 137,7,Hh
+106,Loge Box 137,9,Kk
+106,Loge Box 137,8,Jj
+106,Loge Box 137,12,Nn
+106,Loge Box 137,3,Dd
+106,Loge Box 137,2,Cc
+107,Outfield Grandstand 1,10,11
+107,Outfield Grandstand 1,9,10
+107,Outfield Grandstand 1,12,13
+107,Outfield Grandstand 1,11,12
+107,Outfield Grandstand 1,14,15
+107,Outfield Grandstand 1,13,14
+107,Outfield Grandstand 1,16,17
+107,Outfield Grandstand 1,15,16
+107,Outfield Grandstand 1,17,18
+107,Outfield Grandstand 1,0,1
+107,Outfield Grandstand 1,2,3
+107,Outfield Grandstand 1,1,2
+107,Outfield Grandstand 1,4,5
+107,Outfield Grandstand 1,3,4
+107,Outfield Grandstand 1,6,7
+107,Outfield Grandstand 1,5,6
+107,Outfield Grandstand 1,8,9
+107,Outfield Grandstand 1,7,8
+108,Outfield Grandstand 3,10,11
+108,Outfield Grandstand 3,9,10
+108,Outfield Grandstand 3,12,13
+108,Outfield Grandstand 3,11,12
+108,Outfield Grandstand 3,14,15
+108,Outfield Grandstand 3,13,14
+108,Outfield Grandstand 3,16,17
+108,Outfield Grandstand 3,15,16
+108,Outfield Grandstand 3,17,18
+108,Outfield Grandstand 3,0,1
+108,Outfield Grandstand 3,2,3
+108,Outfield Grandstand 3,1,2
+108,Outfield Grandstand 3,4,5
+108,Outfield Grandstand 3,3,4
+108,Outfield Grandstand 3,6,7
+108,Outfield Grandstand 3,5,6
+108,Outfield Grandstand 3,8,9
+108,Outfield Grandstand 3,7,8
+109,Outfield Grandstand 2,10,11
+109,Outfield Grandstand 2,9,10
+109,Outfield Grandstand 2,12,13
+109,Outfield Grandstand 2,11,12
+109,Outfield Grandstand 2,14,15
+109,Outfield Grandstand 2,13,14
+109,Outfield Grandstand 2,16,17
+109,Outfield Grandstand 2,15,16
+109,Outfield Grandstand 2,17,18
+109,Outfield Grandstand 2,0,1
+109,Outfield Grandstand 2,2,3
+109,Outfield Grandstand 2,1,2
+109,Outfield Grandstand 2,4,5
+109,Outfield Grandstand 2,3,4
+109,Outfield Grandstand 2,6,7
+109,Outfield Grandstand 2,5,6
+109,Outfield Grandstand 2,8,9
+109,Outfield Grandstand 2,7,8
+110,Emc Suite Left 22,,
+111,Outfield Grandstand 4,10,11
+111,Outfield Grandstand 4,9,10
+111,Outfield Grandstand 4,12,13
+111,Outfield Grandstand 4,11,12
+111,Outfield Grandstand 4,14,15
+111,Outfield Grandstand 4,13,14
+111,Outfield Grandstand 4,16,17
+111,Outfield Grandstand 4,15,16
+111,Outfield Grandstand 4,0,1
+111,Outfield Grandstand 4,2,3
+111,Outfield Grandstand 4,1,2
+111,Outfield Grandstand 4,4,5
+111,Outfield Grandstand 4,3,4
+111,Outfield Grandstand 4,6,7
+111,Outfield Grandstand 4,5,6
+111,Outfield Grandstand 4,8,9
+111,Outfield Grandstand 4,7,8
+112,Outfield Grandstand 7,10,11
+112,Outfield Grandstand 7,9,10
+112,Outfield Grandstand 7,12,13
+112,Outfield Grandstand 7,11,12
+112,Outfield Grandstand 7,14,15
+112,Outfield Grandstand 7,13,14
+112,Outfield Grandstand 7,16,17
+112,Outfield Grandstand 7,15,16
+112,Outfield Grandstand 7,0,1
+112,Outfield Grandstand 7,2,3
+112,Outfield Grandstand 7,1,2
+112,Outfield Grandstand 7,4,5
+112,Outfield Grandstand 7,3,4
+112,Outfield Grandstand 7,6,7
+112,Outfield Grandstand 7,5,6
+112,Outfield Grandstand 7,8,9
+112,Outfield Grandstand 7,7,8
+113,Outfield Grandstand 6,10,11
+113,Outfield Grandstand 6,9,10
+113,Outfield Grandstand 6,12,13
+113,Outfield Grandstand 6,11,12
+113,Outfield Grandstand 6,14,15
+113,Outfield Grandstand 6,13,14
+113,Outfield Grandstand 6,16,17
+113,Outfield Grandstand 6,15,16
+113,Outfield Grandstand 6,0,1
+113,Outfield Grandstand 6,2,3
+113,Outfield Grandstand 6,1,2
+113,Outfield Grandstand 6,4,5
+113,Outfield Grandstand 6,3,4
+113,Outfield Grandstand 6,6,7
+113,Outfield Grandstand 6,5,6
+113,Outfield Grandstand 6,8,9
+113,Outfield Grandstand 6,7,8
+114,Outfield Grandstand 9,10,11
+114,Outfield Grandstand 9,9,10
+114,Outfield Grandstand 9,12,13
+114,Outfield Grandstand 9,11,12
+114,Outfield Grandstand 9,14,15
+114,Outfield Grandstand 9,13,14
+114,Outfield Grandstand 9,16,17
+114,Outfield Grandstand 9,15,16
+114,Outfield Grandstand 9,0,1
+114,Outfield Grandstand 9,2,3
+114,Outfield Grandstand 9,1,2
+114,Outfield Grandstand 9,4,5
+114,Outfield Grandstand 9,3,4
+114,Outfield Grandstand 9,6,7
+114,Outfield Grandstand 9,5,6
+114,Outfield Grandstand 9,8,9
+114,Outfield Grandstand 9,7,8
+115,Outfield Grandstand 8,10,11
+115,Outfield Grandstand 8,9,10
+115,Outfield Grandstand 8,12,13
+115,Outfield Grandstand 8,11,12
+115,Outfield Grandstand 8,14,15
+115,Outfield Grandstand 8,13,14
+115,Outfield Grandstand 8,16,17
+115,Outfield Grandstand 8,15,16
+115,Outfield Grandstand 8,0,1
+115,Outfield Grandstand 8,2,3
+115,Outfield Grandstand 8,1,2
+115,Outfield Grandstand 8,4,5
+115,Outfield Grandstand 8,3,4
+115,Outfield Grandstand 8,6,7
+115,Outfield Grandstand 8,5,6
+115,Outfield Grandstand 8,8,9
+115,Outfield Grandstand 8,7,8
+116,Field Box 78,0,A
+116,Field Box 78,2,C
+116,Field Box 78,1,B
+116,Field Box 78,4,E
+116,Field Box 78,3,D
+116,Field Box 78,6,G
+116,Field Box 78,5,F
+116,Field Box 78,7,H
+116,Field Box 78,9,K
+116,Field Box 78,8,J
+116,Field Box 78,11,M
+116,Field Box 78,10,L
+117,Field Box 79,0,A
+117,Field Box 79,2,C
+117,Field Box 79,1,B
+117,Field Box 79,4,E
+117,Field Box 79,3,D
+117,Field Box 79,6,G
+117,Field Box 79,5,F
+117,Field Box 79,7,H
+117,Field Box 79,9,K
+117,Field Box 79,8,J
+117,Field Box 79,11,M
+117,Field Box 79,10,L
+118,Field Box 70,0,A
+118,Field Box 70,2,C
+118,Field Box 70,1,B
+118,Field Box 70,4,E
+118,Field Box 70,3,D
+118,Field Box 70,6,G
+118,Field Box 70,5,F
+118,Field Box 70,7,H
+118,Field Box 70,9,K
+118,Field Box 70,8,J
+118,Field Box 70,11,M
+118,Field Box 70,10,L
+119,Field Box 71,0,A
+119,Field Box 71,2,C
+119,Field Box 71,1,B
+119,Field Box 71,4,E
+119,Field Box 71,3,D
+119,Field Box 71,6,G
+119,Field Box 71,5,F
+119,Field Box 71,7,H
+119,Field Box 71,9,K
+119,Field Box 71,8,J
+119,Field Box 71,11,M
+119,Field Box 71,10,L
+120,Field Box 72,0,A
+120,Field Box 72,2,C
+120,Field Box 72,1,B
+120,Field Box 72,4,E
+120,Field Box 72,3,D
+120,Field Box 72,6,G
+120,Field Box 72,5,F
+120,Field Box 72,7,H
+120,Field Box 72,9,K
+120,Field Box 72,8,J
+120,Field Box 72,11,M
+120,Field Box 72,10,L
+121,Field Box 73,0,A
+121,Field Box 73,2,C
+121,Field Box 73,1,B
+121,Field Box 73,4,E
+121,Field Box 73,3,D
+121,Field Box 73,6,G
+121,Field Box 73,5,F
+121,Field Box 73,7,H
+121,Field Box 73,9,K
+121,Field Box 73,8,J
+121,Field Box 73,11,M
+121,Field Box 73,10,L
+122,Field Box 74,0,A
+122,Field Box 74,2,C
+122,Field Box 74,1,B
+122,Field Box 74,4,E
+122,Field Box 74,3,D
+122,Field Box 74,6,G
+122,Field Box 74,5,F
+122,Field Box 74,7,H
+122,Field Box 74,9,K
+122,Field Box 74,8,J
+122,Field Box 74,11,M
+122,Field Box 74,10,L
+123,Field Box 75,0,A
+123,Field Box 75,2,C
+123,Field Box 75,1,B
+123,Field Box 75,4,E
+123,Field Box 75,3,D
+123,Field Box 75,6,G
+123,Field Box 75,5,F
+123,Field Box 75,7,H
+123,Field Box 75,9,K
+123,Field Box 75,8,J
+123,Field Box 75,11,M
+123,Field Box 75,10,L
+124,Field Box 76,0,A
+124,Field Box 76,2,C
+124,Field Box 76,1,B
+124,Field Box 76,4,E
+124,Field Box 76,3,D
+124,Field Box 76,6,G
+124,Field Box 76,5,F
+124,Field Box 76,7,H
+124,Field Box 76,9,K
+124,Field Box 76,8,J
+124,Field Box 76,11,M
+124,Field Box 76,10,L
+125,Field Box 77,0,A
+125,Field Box 77,2,C
+125,Field Box 77,1,B
+125,Field Box 77,4,E
+125,Field Box 77,3,D
+125,Field Box 77,6,G
+125,Field Box 77,5,F
+125,Field Box 77,7,H
+125,Field Box 77,9,K
+125,Field Box 77,8,J
+125,Field Box 77,11,M
+125,Field Box 77,10,L
+126,Right Field Box 93,11,Qq
+126,Right Field Box 93,3,Gg
+126,Right Field Box 93,10,Pp
+126,Right Field Box 93,12,Rr
+126,Right Field Box 93,9,Nn
+126,Right Field Box 93,8,Mm
+126,Right Field Box 93,7,Ll
+126,Right Field Box 93,2,Ff
+126,Right Field Box 93,18,Xx
+126,Right Field Box 93,17,Ww
+126,Right Field Box 93,1,Ee
+126,Right Field Box 93,5,Hh
+126,Right Field Box 93,0,Dd
+126,Right Field Box 93,6,Kk
+126,Right Field Box 93,4,Jj
+126,Right Field Box 93,16,Vv
+126,Right Field Box 93,15,Uu
+126,Right Field Box 93,13,Ss
+126,Right Field Box 93,14,Tt
+127,Right Field Box 92,11,Qq
+127,Right Field Box 92,3,Gg
+127,Right Field Box 92,10,Pp
+127,Right Field Box 92,12,Rr
+127,Right Field Box 92,9,Nn
+127,Right Field Box 92,8,Mm
+127,Right Field Box 92,7,Ll
+127,Right Field Box 92,2,Ff
+127,Right Field Box 92,18,Xx
+127,Right Field Box 92,17,Ww
+127,Right Field Box 92,1,Ee
+127,Right Field Box 92,5,Hh
+127,Right Field Box 92,0,Dd
+127,Right Field Box 92,6,Kk
+127,Right Field Box 92,4,Jj
+127,Right Field Box 92,16,Vv
+127,Right Field Box 92,15,Uu
+127,Right Field Box 92,13,Ss
+127,Right Field Box 92,14,Tt
+128,Right Field Box 91,10,Qq
+128,Right Field Box 91,2,Gg
+128,Right Field Box 91,9,Pp
+128,Right Field Box 91,11,Rr
+128,Right Field Box 91,8,Nn
+128,Right Field Box 91,7,Mm
+128,Right Field Box 91,6,Ll
+128,Right Field Box 91,1,Ff
+128,Right Field Box 91,17,Xx
+128,Right Field Box 91,16,Ww
+128,Right Field Box 91,0,Ee
+128,Right Field Box 91,3,Hh
+128,Right Field Box 91,5,Kk
+128,Right Field Box 91,4,Jj
+128,Right Field Box 91,15,Vv
+128,Right Field Box 91,14,Uu
+128,Right Field Box 91,12,Ss
+128,Right Field Box 91,13,Tt
+129,Right Field Box 90,11,Qq
+129,Right Field Box 90,3,Gg
+129,Right Field Box 90,10,Pp
+129,Right Field Box 90,12,Rr
+129,Right Field Box 90,9,Nn
+129,Right Field Box 90,8,Mm
+129,Right Field Box 90,7,Ll
+129,Right Field Box 90,2,Ff
+129,Right Field Box 90,18,Xx
+129,Right Field Box 90,17,Ww
+129,Right Field Box 90,1,Ee
+129,Right Field Box 90,4,Hh
+129,Right Field Box 90,0,Dd
+129,Right Field Box 90,6,Kk
+129,Right Field Box 90,5,Jj
+129,Right Field Box 90,16,Vv
+129,Right Field Box 90,15,Uu
+129,Right Field Box 90,13,Ss
+129,Right Field Box 90,14,Tt
+130,Right Field Box 97,13,Qq
+130,Right Field Box 97,5,Gg
+130,Right Field Box 97,12,Pp
+130,Right Field Box 97,11,Nn
+130,Right Field Box 97,0,Bb
+130,Right Field Box 97,3,Ee
+130,Right Field Box 97,9,Ll
+130,Right Field Box 97,4,Ff
+130,Right Field Box 97,6,Hh
+130,Right Field Box 97,14,Rr
+130,Right Field Box 97,19,Ww
+130,Right Field Box 97,10,Mm
+130,Right Field Box 97,20,Xx
+130,Right Field Box 97,2,Dd
+130,Right Field Box 97,8,Kk
+130,Right Field Box 97,7,Jj
+130,Right Field Box 97,18,Vv
+130,Right Field Box 97,17,Uu
+130,Right Field Box 97,15,Ss
+130,Right Field Box 97,16,Tt
+130,Right Field Box 97,1,Cc
+131,Right Field Box 95,13,Qq
+131,Right Field Box 95,5,Gg
+131,Right Field Box 95,12,Pp
+131,Right Field Box 95,11,Nn
+131,Right Field Box 95,0,Bb
+131,Right Field Box 95,3,Ee
+131,Right Field Box 95,9,Ll
+131,Right Field Box 95,4,Ff
+131,Right Field Box 95,6,Hh
+131,Right Field Box 95,14,Rr
+131,Right Field Box 95,19,Ww
+131,Right Field Box 95,10,Mm
+131,Right Field Box 95,20,Xx
+131,Right Field Box 95,2,Dd
+131,Right Field Box 95,8,Kk
+131,Right Field Box 95,7,Jj
+131,Right Field Box 95,18,Vv
+131,Right Field Box 95,17,Uu
+131,Right Field Box 95,15,Ss
+131,Right Field Box 95,16,Tt
+131,Right Field Box 95,1,Cc
+132,Right Field Box 94,13,Qq
+132,Right Field Box 94,5,Gg
+132,Right Field Box 94,12,Pp
+132,Right Field Box 94,11,Nn
+132,Right Field Box 94,0,Bb
+132,Right Field Box 94,3,Ee
+132,Right Field Box 94,9,Ll
+132,Right Field Box 94,4,Ff
+132,Right Field Box 94,6,Hh
+132,Right Field Box 94,14,Rr
+132,Right Field Box 94,19,Ww
+132,Right Field Box 94,10,Mm
+132,Right Field Box 94,20,Xx
+132,Right Field Box 94,2,Dd
+132,Right Field Box 94,7,Kk
+132,Right Field Box 94,8,Jj
+132,Right Field Box 94,18,Vv
+132,Right Field Box 94,17,Uu
+132,Right Field Box 94,15,Ss
+132,Right Field Box 94,16,Tt
+132,Right Field Box 94,1,Cc
+133,Pavilion Suite B 3,,
+134,Pavilion Suite B 2,,
+135,Pavilion Suite B 1,,
+136,Pavilion Suite B 4,,
+137,Right Field Roof Box 43,0,H
+138,Right Field Roof Box 41,0,A
+138,Right Field Roof Box 41,2,C
+138,Right Field Roof Box 41,1,B
+138,Right Field Roof Box 41,4,E
+138,Right Field Roof Box 41,3,D
+138,Right Field Roof Box 41,6,G
+138,Right Field Roof Box 41,5,F
+139,Dugout Box 59,0,1
+139,Dugout Box 59,1,2
+140,Dugout Box 58,0,1
+140,Dugout Box 58,1,2
+141,Loge Box 98,11,Qq
+141,Loge Box 98,10,Pp
+141,Loge Box 98,12,Rr
+141,Loge Box 98,9,Nn
+141,Loge Box 98,8,Mm
+141,Loge Box 98,0,Dd
+141,Loge Box 98,3,Gg
+141,Loge Box 98,1,Ee
+141,Loge Box 98,4,Hh
+141,Loge Box 98,6,Kk
+141,Loge Box 98,5,Jj
+141,Loge Box 98,2,Ff
+141,Loge Box 98,7,Ll
+142,Loge Box 99,0,Aa
+142,Loge Box 99,14,Qq
+142,Loge Box 99,13,Pp
+142,Loge Box 99,15,Rr
+142,Loge Box 99,1,Bb
+142,Loge Box 99,4,Ee
+142,Loge Box 99,10,Ll
+142,Loge Box 99,6,Gg
+142,Loge Box 99,11,Mm
+142,Loge Box 99,7,Hh
+142,Loge Box 99,8,Jj
+142,Loge Box 99,9,Kk
+142,Loge Box 99,5,Ff
+142,Loge Box 99,12,Nn
+142,Loge Box 99,3,Dd
+142,Loge Box 99,2,Cc
+143,Dugout Box 53,0,1
+143,Dugout Box 53,1,2
+144,Dugout Box 52,0,1
+144,Dugout Box 52,1,2
+145,Dugout Box 51,0,1
+145,Dugout Box 51,1,2
+146,Dugout Box 50,0,1
+146,Dugout Box 50,1,2
+147,Dugout Box 57,0,1
+147,Dugout Box 57,1,2
+148,Dugout Box 56,0,1
+148,Dugout Box 56,1,2
+149,Dugout Box 55,0,1
+149,Dugout Box 55,1,2
+150,Dugout Box 54,0,1
+150,Dugout Box 54,1,2
+151,Right Field Roof Box 39,0,A
+151,Right Field Roof Box 39,2,C
+151,Right Field Roof Box 39,1,B
+151,Right Field Roof Box 39,4,E
+151,Right Field Roof Box 39,3,D
+151,Right Field Roof Box 39,6,G
+151,Right Field Roof Box 39,5,F
+152,Right Field Roof Box 37,0,A
+152,Right Field Roof Box 37,2,C
+152,Right Field Roof Box 37,1,B
+152,Right Field Roof Box 37,4,E
+152,Right Field Roof Box 37,3,D
+152,Right Field Roof Box 37,6,G
+152,Right Field Roof Box 37,5,F
+153,Right Field Roof Box 35,0,A
+153,Right Field Roof Box 35,2,C
+153,Right Field Roof Box 35,1,B
+153,Right Field Roof Box 35,4,E
+153,Right Field Roof Box 35,3,D
+153,Right Field Roof Box 35,6,G
+153,Right Field Roof Box 35,5,F
+154,Right Field Roof Box 33,0,A
+154,Right Field Roof Box 33,2,C
+154,Right Field Roof Box 33,1,B
+154,Right Field Roof Box 33,4,E
+154,Right Field Roof Box 33,3,D
+154,Right Field Roof Box 33,6,G
+154,Right Field Roof Box 33,5,F
+155,Right Field Roof Box 31,0,A
+155,Right Field Roof Box 31,2,C
+155,Right Field Roof Box 31,1,B
+155,Right Field Roof Box 31,4,E
+155,Right Field Roof Box 31,3,D
+155,Right Field Roof Box 31,6,G
+155,Right Field Roof Box 31,5,F
+156,Green Monster M 10,0,1
+156,Green Monster M 10,2,3
+156,Green Monster M 10,1,2
+157,Loge Box 118,0,Aa
+157,Loge Box 118,5,Ff
+157,Loge Box 118,1,Bb
+157,Loge Box 118,4,Ee
+157,Loge Box 118,10,Ll
+157,Loge Box 118,6,Gg
+157,Loge Box 118,11,Mm
+157,Loge Box 118,7,Hh
+157,Loge Box 118,9,Kk
+157,Loge Box 118,8,Jj
+157,Loge Box 118,12,Nn
+157,Loge Box 118,3,Dd
+157,Loge Box 118,2,Cc
+158,Emc Suite Right 20,,
+159,Emc Suite Right 21,,
+160,Field Box 27,0,C
+160,Field Box 27,2,E
+160,Field Box 27,1,D
+160,Field Box 27,4,G
+160,Field Box 27,3,F
+160,Field Box 27,5,H
+160,Field Box 27,7,K
+160,Field Box 27,6,J
+160,Field Box 27,9,M
+160,Field Box 27,8,L
+161,Field Box 26,0,C
+161,Field Box 26,2,E
+161,Field Box 26,1,D
+161,Field Box 26,4,G
+161,Field Box 26,3,F
+161,Field Box 26,5,H
+161,Field Box 26,7,K
+161,Field Box 26,6,J
+161,Field Box 26,9,M
+161,Field Box 26,8,L
+162,Field Box 25,0,C
+162,Field Box 25,2,E
+162,Field Box 25,1,D
+162,Field Box 25,4,G
+162,Field Box 25,3,F
+162,Field Box 25,5,H
+162,Field Box 25,7,K
+162,Field Box 25,6,J
+162,Field Box 25,9,M
+162,Field Box 25,8,L
+163,Field Box 24,0,C
+163,Field Box 24,2,E
+163,Field Box 24,1,D
+163,Field Box 24,4,G
+163,Field Box 24,3,F
+163,Field Box 24,5,H
+163,Field Box 24,7,K
+163,Field Box 24,6,J
+163,Field Box 24,9,M
+163,Field Box 24,8,L
+164,Field Box 23,0,C
+164,Field Box 23,2,E
+164,Field Box 23,1,D
+164,Field Box 23,4,G
+164,Field Box 23,3,F
+164,Field Box 23,5,H
+164,Field Box 23,7,K
+164,Field Box 23,6,J
+164,Field Box 23,9,M
+164,Field Box 23,8,L
+165,Field Box 22,0,C
+165,Field Box 22,2,E
+165,Field Box 22,1,D
+165,Field Box 22,4,G
+165,Field Box 22,3,F
+165,Field Box 22,5,H
+165,Field Box 22,7,K
+165,Field Box 22,6,J
+165,Field Box 22,9,M
+165,Field Box 22,8,L
+166,Field Box 21,0,C
+166,Field Box 21,2,E
+166,Field Box 21,1,D
+166,Field Box 21,4,G
+166,Field Box 21,3,F
+166,Field Box 21,5,H
+166,Field Box 21,7,K
+166,Field Box 21,6,J
+166,Field Box 21,9,M
+166,Field Box 21,8,L
+167,Field Box 20,0,A
+167,Field Box 20,2,C
+167,Field Box 20,1,B
+167,Field Box 20,4,E
+167,Field Box 20,3,D
+167,Field Box 20,6,G
+167,Field Box 20,5,F
+167,Field Box 20,7,H
+167,Field Box 20,9,K
+167,Field Box 20,8,J
+167,Field Box 20,11,M
+167,Field Box 20,10,L
+168,Field Box 29,0,A
+168,Field Box 29,2,C
+168,Field Box 29,1,B
+168,Field Box 29,4,E
+168,Field Box 29,3,D
+168,Field Box 29,6,G
+168,Field Box 29,5,F
+168,Field Box 29,7,H
+168,Field Box 29,9,K
+168,Field Box 29,8,J
+168,Field Box 29,11,M
+168,Field Box 29,10,L
+169,Field Box 28,0,C
+169,Field Box 28,2,E
+169,Field Box 28,1,D
+169,Field Box 28,4,G
+169,Field Box 28,3,F
+169,Field Box 28,5,H
+169,Field Box 28,7,K
+169,Field Box 28,6,J
+169,Field Box 28,9,M
+169,Field Box 28,8,L
+170,Loge Box 165,5,Pp
+170,Loge Box 165,4,Nn
+170,Loge Box 165,1,Kk
+170,Loge Box 165,2,Ll
+170,Loge Box 165,3,Mm
+170,Loge Box 165,0,Jj
+171,Loge Box 164,10,Pp
+171,Loge Box 164,3,Ff
+171,Loge Box 164,2,Ee
+171,Loge Box 164,1,Dd
+171,Loge Box 164,4,Gg
+171,Loge Box 164,9,Mm
+171,Loge Box 164,5,Hh
+171,Loge Box 164,7,Kk
+171,Loge Box 164,6,Jj
+171,Loge Box 164,8,Ll
+171,Loge Box 164,0,Cc
+172,Loge Box 163,0,Aa
+172,Loge Box 163,12,Pp
+172,Loge Box 163,5,Ff
+172,Loge Box 163,1,Bb
+172,Loge Box 163,4,Ee
+172,Loge Box 163,10,Ll
+172,Loge Box 163,6,Gg
+172,Loge Box 163,11,Mm
+172,Loge Box 163,7,Hh
+172,Loge Box 163,9,Kk
+172,Loge Box 163,8,Jj
+172,Loge Box 163,3,Dd
+172,Loge Box 163,2,Cc
+173,Loge Box 162,0,Aa
+173,Loge Box 162,13,Pp
+173,Loge Box 162,5,Ff
+173,Loge Box 162,1,Bb
+173,Loge Box 162,4,Ee
+173,Loge Box 162,10,Ll
+173,Loge Box 162,6,Gg
+173,Loge Box 162,11,Mm
+173,Loge Box 162,7,Hh
+173,Loge Box 162,9,Kk
+173,Loge Box 162,8,Jj
+173,Loge Box 162,12,Nn
+173,Loge Box 162,3,Dd
+173,Loge Box 162,2,Cc
+174,Loge Box 161,0,Aa
+174,Loge Box 161,13,Pp
+174,Loge Box 161,5,Ff
+174,Loge Box 161,1,Bb
+174,Loge Box 161,4,Ee
+174,Loge Box 161,10,Ll
+174,Loge Box 161,6,Gg
+174,Loge Box 161,11,Mm
+174,Loge Box 161,7,Hh
+174,Loge Box 161,9,Kk
+174,Loge Box 161,8,Jj
+174,Loge Box 161,12,Nn
+174,Loge Box 161,3,Dd
+174,Loge Box 161,2,Cc
+175,Loge Box 160,0,Aa
+175,Loge Box 160,13,Pp
+175,Loge Box 160,5,Ff
+175,Loge Box 160,1,Bb
+175,Loge Box 160,4,Ee
+175,Loge Box 160,10,Ll
+175,Loge Box 160,6,Gg
+175,Loge Box 160,11,Mm
+175,Loge Box 160,7,Hh
+175,Loge Box 160,9,Kk
+175,Loge Box 160,8,Jj
+175,Loge Box 160,12,Nn
+175,Loge Box 160,3,Dd
+175,Loge Box 160,2,Cc
+176,Infield Grandstand 33,10,11
+176,Infield Grandstand 33,9,10
+176,Infield Grandstand 33,12,13
+176,Infield Grandstand 33,11,12
+176,Infield Grandstand 33,14,15
+176,Infield Grandstand 33,13,14
+176,Infield Grandstand 33,16,17
+176,Infield Grandstand 33,15,16
+176,Infield Grandstand 33,0,1
+176,Infield Grandstand 33,2,3
+176,Infield Grandstand 33,1,2
+176,Infield Grandstand 33,4,5
+176,Infield Grandstand 33,3,4
+176,Infield Grandstand 33,6,7
+176,Infield Grandstand 33,5,6
+176,Infield Grandstand 33,8,9
+176,Infield Grandstand 33,7,8
+177,Infield Grandstand 32,10,11
+177,Infield Grandstand 32,9,10
+177,Infield Grandstand 32,12,13
+177,Infield Grandstand 32,11,12
+177,Infield Grandstand 32,15,15
+177,Infield Grandstand 32,14,14
+177,Infield Grandstand 32,17,17
+177,Infield Grandstand 32,16,16
+177,Infield Grandstand 32,13,18
+177,Infield Grandstand 32,0,1
+177,Infield Grandstand 32,2,3
+177,Infield Grandstand 32,1,2
+177,Infield Grandstand 32,4,5
+177,Infield Grandstand 32,3,4
+177,Infield Grandstand 32,6,7
+177,Infield Grandstand 32,5,6
+177,Infield Grandstand 32,8,9
+177,Infield Grandstand 32,7,8
+178,Infield Grandstand 31,10,11
+178,Infield Grandstand 31,9,10
+178,Infield Grandstand 31,12,13
+178,Infield Grandstand 31,11,12
+178,Infield Grandstand 31,14,15
+178,Infield Grandstand 31,13,14
+178,Infield Grandstand 31,16,17
+178,Infield Grandstand 31,15,16
+178,Infield Grandstand 31,17,18
+178,Infield Grandstand 31,0,1
+178,Infield Grandstand 31,2,3
+178,Infield Grandstand 31,1,2
+178,Infield Grandstand 31,4,5
+178,Infield Grandstand 31,3,4
+178,Infield Grandstand 31,6,7
+178,Infield Grandstand 31,5,6
+178,Infield Grandstand 31,8,9
+178,Infield Grandstand 31,7,8
+179,Infield Grandstand 30,10,11
+179,Infield Grandstand 30,9,10
+179,Infield Grandstand 30,12,13
+179,Infield Grandstand 30,11,12
+179,Infield Grandstand 30,14,15
+179,Infield Grandstand 30,13,14
+179,Infield Grandstand 30,16,17
+179,Infield Grandstand 30,15,16
+179,Infield Grandstand 30,17,18
+179,Infield Grandstand 30,0,1
+179,Infield Grandstand 30,2,3
+179,Infield Grandstand 30,1,2
+179,Infield Grandstand 30,4,5
+179,Infield Grandstand 30,3,4
+179,Infield Grandstand 30,6,7
+179,Infield Grandstand 30,5,6
+179,Infield Grandstand 30,8,9
+179,Infield Grandstand 30,7,8
+180,Dugout Box 16,0,1
+180,Dugout Box 16,1,2
+181,Dugout Box 15,0,1
+181,Dugout Box 15,1,2
+182,Dugout Box 14,0,1
+182,Dugout Box 14,2,3
+182,Dugout Box 14,1,2
+183,Dugout Box 13,0,1
+183,Dugout Box 13,2,3
+183,Dugout Box 13,1,2
+184,Dugout Box 12,0,1
+184,Dugout Box 12,2,3
+184,Dugout Box 12,1,2
+185,Budweiser Right Field Roof Deck Sro,,
+186,Emc Suite Left 9,,
+187,Emc Suite Left 8,,
+188,Emc Suite Left 7,,
+189,Emc Suite Left 6,,
+190,Emc Suite Left 5,,
+191,Emc Suite Left 4,,
+192,Emc Suite Left 3,,
+193,Emc Suite Left 2,,
+194,Emc Suite Left 1,,
+195,Field Box 80,0,A
+195,Field Box 80,2,C
+195,Field Box 80,1,B
+195,Field Box 80,4,E
+195,Field Box 80,3,D
+195,Field Box 80,6,G
+195,Field Box 80,5,F
+195,Field Box 80,7,H
+195,Field Box 80,9,K
+195,Field Box 80,8,J
+195,Field Box 80,11,M
+195,Field Box 80,10,L
+196,Field Box 82,1,E
+196,Field Box 82,0,D
+196,Field Box 82,3,G
+196,Field Box 82,2,F
+196,Field Box 82,4,H
+196,Field Box 82,6,K
+196,Field Box 82,5,J
+196,Field Box 82,8,M
+196,Field Box 82,7,L
+197,Outfield Grandstand 5,10,11
+197,Outfield Grandstand 5,9,10
+197,Outfield Grandstand 5,12,13
+197,Outfield Grandstand 5,11,12
+197,Outfield Grandstand 5,14,15
+197,Outfield Grandstand 5,13,14
+197,Outfield Grandstand 5,16,17
+197,Outfield Grandstand 5,15,16
+197,Outfield Grandstand 5,0,1
+197,Outfield Grandstand 5,2,3
+197,Outfield Grandstand 5,1,2
+197,Outfield Grandstand 5,4,5
+197,Outfield Grandstand 5,3,4
+197,Outfield Grandstand 5,6,7
+197,Outfield Grandstand 5,5,6
+197,Outfield Grandstand 5,8,9
+197,Outfield Grandstand 5,7,8
+198,Emc Club 6,0,1
+198,Emc Club 6,2,3
+198,Emc Club 6,1,2
+198,Emc Club 6,4,5
+198,Emc Club 6,3,4
+198,Emc Club 6,6,7
+198,Emc Club 6,5,6
+199,Emc Club 5,0,1
+199,Emc Club 5,2,3
+199,Emc Club 5,1,2
+199,Emc Club 5,4,5
+199,Emc Club 5,3,4
+199,Emc Club 5,6,7
+199,Emc Club 5,5,6
+200,Emc Club 4,0,1
+200,Emc Club 4,2,3
+200,Emc Club 4,1,2
+200,Emc Club 4,4,5
+200,Emc Club 4,3,4
+200,Emc Club 4,6,7
+200,Emc Club 4,5,6
+201,Emc Club 3,0,1
+201,Emc Club 3,2,3
+201,Emc Club 3,1,2
+201,Emc Club 3,4,5
+201,Emc Club 3,3,4
+201,Emc Club 3,6,7
+201,Emc Club 3,5,6
+202,Emc Club 2,0,1
+202,Emc Club 2,2,3
+202,Emc Club 2,1,2
+202,Emc Club 2,4,5
+202,Emc Club 2,3,4
+202,Emc Club 2,6,7
+202,Emc Club 2,5,6
+203,Emc Club 1,0,1
+203,Emc Club 1,2,3
+203,Emc Club 1,1,2
+203,Emc Club 1,4,5
+203,Emc Club 1,3,4
+203,Emc Club 1,6,7
+203,Emc Club 1,5,6
+204,Loge Box 129,0,Aa
+204,Loge Box 129,5,Ff
+204,Loge Box 129,1,Bb
+204,Loge Box 129,4,Ee
+204,Loge Box 129,10,Ll
+204,Loge Box 129,6,Gg
+204,Loge Box 129,11,Mm
+204,Loge Box 129,7,Hh
+204,Loge Box 129,9,Kk
+204,Loge Box 129,8,Jj
+204,Loge Box 129,12,Nn
+204,Loge Box 129,3,Dd
+204,Loge Box 129,2,Cc
+205,Loge Box 128,0,Aa
+205,Loge Box 128,5,Ff
+205,Loge Box 128,1,Bb
+205,Loge Box 128,4,Ee
+205,Loge Box 128,10,Ll
+205,Loge Box 128,6,Gg
+205,Loge Box 128,11,Mm
+205,Loge Box 128,7,Hh
+205,Loge Box 128,9,Kk
+205,Loge Box 128,8,Jj
+205,Loge Box 128,12,Nn
+205,Loge Box 128,3,Dd
+205,Loge Box 128,2,Cc
+206,Loge Box 123,0,Aa
+206,Loge Box 123,5,Ff
+206,Loge Box 123,1,Bb
+206,Loge Box 123,4,Ee
+206,Loge Box 123,10,Ll
+206,Loge Box 123,6,Gg
+206,Loge Box 123,11,Mm
+206,Loge Box 123,7,Hh
+206,Loge Box 123,9,Kk
+206,Loge Box 123,8,Jj
+206,Loge Box 123,12,Nn
+206,Loge Box 123,3,Dd
+206,Loge Box 123,2,Cc
+207,Loge Box 122,0,Aa
+207,Loge Box 122,5,Ff
+207,Loge Box 122,1,Bb
+207,Loge Box 122,4,Ee
+207,Loge Box 122,10,Ll
+207,Loge Box 122,6,Gg
+207,Loge Box 122,11,Mm
+207,Loge Box 122,7,Hh
+207,Loge Box 122,9,Kk
+207,Loge Box 122,8,Jj
+207,Loge Box 122,12,Nn
+207,Loge Box 122,3,Dd
+207,Loge Box 122,2,Cc
+208,Loge Box 121,0,Aa
+208,Loge Box 121,5,Ff
+208,Loge Box 121,1,Bb
+208,Loge Box 121,4,Ee
+208,Loge Box 121,10,Ll
+208,Loge Box 121,6,Gg
+208,Loge Box 121,11,Mm
+208,Loge Box 121,7,Hh
+208,Loge Box 121,9,Kk
+208,Loge Box 121,8,Jj
+208,Loge Box 121,12,Nn
+208,Loge Box 121,3,Dd
+208,Loge Box 121,2,Cc
+209,Loge Box 120,0,Aa
+209,Loge Box 120,5,Ff
+209,Loge Box 120,1,Bb
+209,Loge Box 120,4,Ee
+209,Loge Box 120,10,Ll
+209,Loge Box 120,6,Gg
+209,Loge Box 120,11,Mm
+209,Loge Box 120,7,Hh
+209,Loge Box 120,9,Kk
+209,Loge Box 120,8,Jj
+209,Loge Box 120,12,Nn
+209,Loge Box 120,3,Dd
+209,Loge Box 120,2,Cc
+210,Loge Box 127,0,Aa
+210,Loge Box 127,5,Ff
+210,Loge Box 127,1,Bb
+210,Loge Box 127,4,Ee
+210,Loge Box 127,10,Ll
+210,Loge Box 127,6,Gg
+210,Loge Box 127,11,Mm
+210,Loge Box 127,7,Hh
+210,Loge Box 127,9,Kk
+210,Loge Box 127,8,Jj
+210,Loge Box 127,12,Nn
+210,Loge Box 127,3,Dd
+210,Loge Box 127,2,Cc
+211,Loge Box 126,0,Aa
+211,Loge Box 126,5,Ff
+211,Loge Box 126,1,Bb
+211,Loge Box 126,4,Ee
+211,Loge Box 126,10,Ll
+211,Loge Box 126,6,Gg
+211,Loge Box 126,11,Mm
+211,Loge Box 126,7,Hh
+211,Loge Box 126,9,Kk
+211,Loge Box 126,8,Jj
+211,Loge Box 126,12,Nn
+211,Loge Box 126,3,Dd
+211,Loge Box 126,2,Cc
+212,Loge Box 125,0,Aa
+212,Loge Box 125,5,Ff
+212,Loge Box 125,1,Bb
+212,Loge Box 125,4,Ee
+212,Loge Box 125,10,Ll
+212,Loge Box 125,6,Gg
+212,Loge Box 125,11,Mm
+212,Loge Box 125,7,Hh
+212,Loge Box 125,9,Kk
+212,Loge Box 125,8,Jj
+212,Loge Box 125,12,Nn
+212,Loge Box 125,3,Dd
+212,Loge Box 125,2,Cc
+213,Loge Box 124,0,Aa
+213,Loge Box 124,5,Ff
+213,Loge Box 124,1,Bb
+213,Loge Box 124,4,Ee
+213,Loge Box 124,10,Ll
+213,Loge Box 124,6,Gg
+213,Loge Box 124,11,Mm
+213,Loge Box 124,7,Hh
+213,Loge Box 124,9,Kk
+213,Loge Box 124,8,Jj
+213,Loge Box 124,12,Nn
+213,Loge Box 124,3,Dd
+213,Loge Box 124,2,Cc
+214,State Street Pavilion Club 8,0,1
+214,State Street Pavilion Club 8,2,3
+214,State Street Pavilion Club 8,1,2
+214,State Street Pavilion Club 8,4,5
+214,State Street Pavilion Club 8,3,4
+215,State Street Pavilion Club 9,0,1
+215,State Street Pavilion Club 9,2,3
+215,State Street Pavilion Club 9,1,2
+215,State Street Pavilion Club 9,4,5
+215,State Street Pavilion Club 9,3,4
+216,State Street Pavilion Club 1,0,1
+216,State Street Pavilion Club 1,2,3
+216,State Street Pavilion Club 1,1,2
+216,State Street Pavilion Club 1,4,5
+216,State Street Pavilion Club 1,3,4
+217,State Street Pavilion Club 2,0,1
+217,State Street Pavilion Club 2,2,3
+217,State Street Pavilion Club 2,1,2
+217,State Street Pavilion Club 2,4,5
+217,State Street Pavilion Club 2,3,4
+218,State Street Pavilion Club 3,0,1
+218,State Street Pavilion Club 3,2,3
+218,State Street Pavilion Club 3,1,2
+218,State Street Pavilion Club 3,4,5
+218,State Street Pavilion Club 3,3,4
+219,State Street Pavilion Club 4,0,1
+219,State Street Pavilion Club 4,2,3
+219,State Street Pavilion Club 4,1,2
+219,State Street Pavilion Club 4,4,5
+219,State Street Pavilion Club 4,3,4
+220,State Street Pavilion Club 5,0,1
+220,State Street Pavilion Club 5,2,3
+220,State Street Pavilion Club 5,1,2
+220,State Street Pavilion Club 5,4,5
+220,State Street Pavilion Club 5,3,4
+221,State Street Pavilion Club 6,0,1
+221,State Street Pavilion Club 6,2,3
+221,State Street Pavilion Club 6,1,2
+221,State Street Pavilion Club 6,4,5
+221,State Street Pavilion Club 6,3,4
+222,State Street Pavilion Club 7,0,1
+222,State Street Pavilion Club 7,2,3
+222,State Street Pavilion Club 7,1,2
+222,State Street Pavilion Club 7,4,5
+222,State Street Pavilion Club 7,3,4
+223,Emc Suite Left 19,,
+224,Emc Suite Left 18,,
+225,Emc Suite Left 13,,
+226,Emc Suite Left 12,,
+227,Emc Suite Left 11,,
+228,Emc Suite Left 10,,
+229,Emc Suite Left 17,,
+230,Emc Suite Left 16,,
+231,Emc Suite Left 15,,
+232,Emc Suite Left 14,,
+233,Field Box 69,0,A
+233,Field Box 69,2,C
+233,Field Box 69,1,B
+233,Field Box 69,4,E
+233,Field Box 69,3,D
+233,Field Box 69,6,G
+233,Field Box 69,5,F
+233,Field Box 69,7,H
+233,Field Box 69,9,K
+233,Field Box 69,8,J
+233,Field Box 69,11,M
+233,Field Box 69,10,L
+234,Field Box 68,0,C
+234,Field Box 68,2,E
+234,Field Box 68,1,D
+234,Field Box 68,4,G
+234,Field Box 68,3,F
+234,Field Box 68,5,H
+234,Field Box 68,7,K
+234,Field Box 68,6,J
+234,Field Box 68,9,M
+234,Field Box 68,8,L
+235,Field Box 63,0,C
+235,Field Box 63,2,E
+235,Field Box 63,1,D
+235,Field Box 63,4,G
+235,Field Box 63,3,F
+235,Field Box 63,5,H
+235,Field Box 63,7,K
+235,Field Box 63,6,J
+235,Field Box 63,9,M
+235,Field Box 63,8,L
+236,Field Box 62,0,C
+236,Field Box 62,2,E
+236,Field Box 62,1,D
+236,Field Box 62,4,G
+236,Field Box 62,3,F
+236,Field Box 62,5,H
+236,Field Box 62,7,K
+236,Field Box 62,6,J
+236,Field Box 62,9,M
+236,Field Box 62,8,L
+237,Field Box 61,0,A
+237,Field Box 61,2,C
+237,Field Box 61,1,B
+237,Field Box 61,4,E
+237,Field Box 61,3,D
+237,Field Box 61,6,G
+237,Field Box 61,5,F
+237,Field Box 61,7,H
+237,Field Box 61,9,K
+237,Field Box 61,8,J
+237,Field Box 61,11,M
+237,Field Box 61,10,L
+238,Field Box 60,0,A
+238,Field Box 60,2,C
+238,Field Box 60,1,B
+238,Field Box 60,4,E
+238,Field Box 60,3,D
+238,Field Box 60,6,G
+238,Field Box 60,5,F
+238,Field Box 60,7,H
+238,Field Box 60,9,K
+238,Field Box 60,8,J
+238,Field Box 60,11,M
+238,Field Box 60,10,L
+239,Field Box 67,0,C
+239,Field Box 67,2,E
+239,Field Box 67,1,D
+239,Field Box 67,4,G
+239,Field Box 67,3,F
+239,Field Box 67,5,H
+239,Field Box 67,7,K
+239,Field Box 67,6,J
+239,Field Box 67,9,M
+239,Field Box 67,8,L
+240,Field Box 66,0,C
+240,Field Box 66,2,E
+240,Field Box 66,1,D
+240,Field Box 66,4,G
+240,Field Box 66,3,F
+240,Field Box 66,5,H
+240,Field Box 66,7,K
+240,Field Box 66,6,J
+240,Field Box 66,9,M
+240,Field Box 66,8,L
+241,Field Box 65,0,C
+241,Field Box 65,2,E
+241,Field Box 65,1,D
+241,Field Box 65,4,G
+241,Field Box 65,3,F
+241,Field Box 65,5,H
+241,Field Box 65,7,K
+241,Field Box 65,6,J
+241,Field Box 65,9,M
+241,Field Box 65,8,L
+242,Field Box 64,0,C
+242,Field Box 64,2,E
+242,Field Box 64,1,D
+242,Field Box 64,4,G
+242,Field Box 64,3,F
+242,Field Box 64,5,H
+242,Field Box 64,7,K
+242,Field Box 64,6,J
+242,Field Box 64,9,M
+242,Field Box 64,8,L
+243,Infield Grandstand 24,10,11
+243,Infield Grandstand 24,9,10
+243,Infield Grandstand 24,12,13
+243,Infield Grandstand 24,11,12
+243,Infield Grandstand 24,13,14
+243,Infield Grandstand 24,14,17
+243,Infield Grandstand 24,0,1
+243,Infield Grandstand 24,2,3
+243,Infield Grandstand 24,1,2
+243,Infield Grandstand 24,4,5
+243,Infield Grandstand 24,3,4
+243,Infield Grandstand 24,6,7
+243,Infield Grandstand 24,5,6
+243,Infield Grandstand 24,8,9
+243,Infield Grandstand 24,7,8
+244,Green Monster M 5,0,1
+244,Green Monster M 5,2,3
+244,Green Monster M 5,1,2
+245,Field Box 9,1,A
+245,Field Box 9,3,C
+245,Field Box 9,2,B
+245,Field Box 9,5,E
+245,Field Box 9,4,D
+245,Field Box 9,7,G
+245,Field Box 9,6,F
+245,Field Box 9,8,H
+245,Field Box 9,10,K
+245,Field Box 9,9,J
+245,Field Box 9,12,M
+245,Field Box 9,11,L
+245,Field Box 9,0,1
+246,Green Monster M 6,0,1
+246,Green Monster M 6,2,3
+246,Green Monster M 6,1,2
+247,Infield Grandstand 27,10,11
+247,Infield Grandstand 27,9,10
+247,Infield Grandstand 27,12,13
+247,Infield Grandstand 27,11,12
+247,Infield Grandstand 27,14,15
+247,Infield Grandstand 27,13,14
+247,Infield Grandstand 27,16,17
+247,Infield Grandstand 27,15,16
+247,Infield Grandstand 27,17,18
+247,Infield Grandstand 27,0,1
+247,Infield Grandstand 27,2,3
+247,Infield Grandstand 27,1,2
+247,Infield Grandstand 27,4,5
+247,Infield Grandstand 27,3,4
+247,Infield Grandstand 27,6,7
+247,Infield Grandstand 27,5,6
+247,Infield Grandstand 27,8,9
+247,Infield Grandstand 27,7,8
+248,Pavilion Reserved 18,0,A
+248,Pavilion Reserved 18,2,C
+248,Pavilion Reserved 18,1,B
+248,Pavilion Reserved 18,4,E
+248,Pavilion Reserved 18,3,D
+248,Pavilion Reserved 18,6,G
+248,Pavilion Reserved 18,5,F
+248,Pavilion Reserved 18,7,H
+248,Pavilion Reserved 18,8,J
+249,Pavilion Reserved 16,0,A
+249,Pavilion Reserved 16,2,C
+249,Pavilion Reserved 16,1,B
+249,Pavilion Reserved 16,4,E
+249,Pavilion Reserved 16,3,D
+249,Pavilion Reserved 16,6,G
+249,Pavilion Reserved 16,5,F
+249,Pavilion Reserved 16,7,H
+249,Pavilion Reserved 16,8,J
+250,Green Monster M 1,0,1
+250,Green Monster M 1,2,3
+250,Green Monster M 1,1,2
+251,Green Monster M 2,0,1
+251,Green Monster M 2,2,3
+251,Green Monster M 2,1,2
+252,Infield Grandstand 23,10,11
+252,Infield Grandstand 23,9,10
+252,Infield Grandstand 23,12,13
+252,Infield Grandstand 23,11,12
+252,Infield Grandstand 23,13,14
+252,Infield Grandstand 23,14,17
+252,Infield Grandstand 23,0,1
+252,Infield Grandstand 23,2,3
+252,Infield Grandstand 23,1,2
+252,Infield Grandstand 23,4,5
+252,Infield Grandstand 23,3,4
+252,Infield Grandstand 23,6,7
+252,Infield Grandstand 23,5,6
+252,Infield Grandstand 23,8,9
+252,Infield Grandstand 23,7,8
+253,Dugout Box 44,0,1
+253,Dugout Box 44,1,2
+254,Dugout Box 45,0,1
+254,Dugout Box 45,1,2
+255,Dugout Box 46,0,1
+255,Dugout Box 46,1,2
+256,Dugout Box 47,0,1
+256,Dugout Box 47,1,2
+257,Dugout Box 40,0,1
+257,Dugout Box 40,1,2
+258,Dugout Box 41,0,1
+258,Dugout Box 41,1,2
+259,Dugout Box 42,0,1
+259,Dugout Box 42,1,2
+260,Dugout Box 43,0,1
+260,Dugout Box 43,1,2
+261,Dugout Box 48,0,1
+261,Dugout Box 48,1,2
+262,Dugout Box 49,0,1
+262,Dugout Box 49,1,2
+263,Right Field Roof Box 29,0,A
+263,Right Field Roof Box 29,2,C
+263,Right Field Roof Box 29,1,B
+263,Right Field Roof Box 29,4,E
+263,Right Field Roof Box 29,3,D
+263,Right Field Roof Box 29,6,G
+263,Right Field Roof Box 29,5,F
+264,Green Monster M 8,0,1
+264,Green Monster M 8,2,3
+264,Green Monster M 8,1,2
+265,Right Field Roof Box 27,0,A
+265,Right Field Roof Box 27,2,C
+265,Right Field Roof Box 27,1,B
+265,Right Field Roof Box 27,4,E
+265,Right Field Roof Box 27,3,D
+265,Right Field Roof Box 27,6,G
+265,Right Field Roof Box 27,5,F
+266,Green Monster M 9,0,1
+266,Green Monster M 9,2,3
+266,Green Monster M 9,1,2
+267,Emc Suite Left 23,,
+268,Field Box 12,0,A
+268,Field Box 12,2,C
+268,Field Box 12,1,B
+268,Field Box 12,4,E
+268,Field Box 12,3,D
+268,Field Box 12,6,G
+268,Field Box 12,5,F
+268,Field Box 12,7,H
+268,Field Box 12,9,K
+268,Field Box 12,8,J
+268,Field Box 12,11,M
+268,Field Box 12,10,L
+269,Field Box 13,0,A
+269,Field Box 13,2,C
+269,Field Box 13,1,B
+269,Field Box 13,4,E
+269,Field Box 13,3,D
+269,Field Box 13,6,G
+269,Field Box 13,5,F
+269,Field Box 13,7,H
+269,Field Box 13,9,K
+269,Field Box 13,8,J
+269,Field Box 13,11,M
+269,Field Box 13,10,L
+270,Field Box 10,1,A
+270,Field Box 10,3,C
+270,Field Box 10,2,B
+270,Field Box 10,5,E
+270,Field Box 10,4,D
+270,Field Box 10,7,G
+270,Field Box 10,6,F
+270,Field Box 10,8,H
+270,Field Box 10,10,K
+270,Field Box 10,9,J
+270,Field Box 10,12,M
+270,Field Box 10,11,L
+270,Field Box 10,0,1
+271,Field Box 11,1,A
+271,Field Box 11,3,C
+271,Field Box 11,2,B
+271,Field Box 11,5,E
+271,Field Box 11,4,D
+271,Field Box 11,7,G
+271,Field Box 11,6,F
+271,Field Box 11,8,H
+271,Field Box 11,10,K
+271,Field Box 11,9,J
+271,Field Box 11,12,M
+271,Field Box 11,11,L
+271,Field Box 11,0,1
+272,Field Box 16,0,A
+272,Field Box 16,2,C
+272,Field Box 16,1,B
+272,Field Box 16,4,E
+272,Field Box 16,3,D
+272,Field Box 16,6,G
+272,Field Box 16,5,F
+272,Field Box 16,7,H
+272,Field Box 16,9,K
+272,Field Box 16,8,J
+272,Field Box 16,11,M
+272,Field Box 16,10,L
+273,Field Box 17,0,A
+273,Field Box 17,2,C
+273,Field Box 17,1,B
+273,Field Box 17,4,E
+273,Field Box 17,3,D
+273,Field Box 17,6,G
+273,Field Box 17,5,F
+273,Field Box 17,7,H
+273,Field Box 17,9,K
+273,Field Box 17,8,J
+273,Field Box 17,11,M
+273,Field Box 17,10,L
+274,Field Box 14,0,A
+274,Field Box 14,2,C
+274,Field Box 14,1,B
+274,Field Box 14,4,E
+274,Field Box 14,3,D
+274,Field Box 14,6,G
+274,Field Box 14,5,F
+274,Field Box 14,7,H
+274,Field Box 14,9,K
+274,Field Box 14,8,J
+274,Field Box 14,11,M
+274,Field Box 14,10,L
+275,Field Box 15,0,A
+275,Field Box 15,2,C
+275,Field Box 15,1,B
+275,Field Box 15,4,E
+275,Field Box 15,3,D
+275,Field Box 15,6,G
+275,Field Box 15,5,F
+275,Field Box 15,7,H
+275,Field Box 15,9,K
+275,Field Box 15,8,J
+275,Field Box 15,11,M
+275,Field Box 15,10,L
+276,Field Box 18,0,A
+276,Field Box 18,2,C
+276,Field Box 18,1,B
+276,Field Box 18,4,E
+276,Field Box 18,3,D
+276,Field Box 18,6,G
+276,Field Box 18,5,F
+276,Field Box 18,7,H
+276,Field Box 18,9,K
+276,Field Box 18,8,J
+276,Field Box 18,11,M
+276,Field Box 18,10,L
+277,Field Box 19,0,A
+277,Field Box 19,2,C
+277,Field Box 19,1,B
+277,Field Box 19,4,E
+277,Field Box 19,3,D
+277,Field Box 19,6,G
+277,Field Box 19,5,F
+277,Field Box 19,7,H
+277,Field Box 19,9,K
+277,Field Box 19,8,J
+277,Field Box 19,11,M
+277,Field Box 19,10,L
+278,Bleacher 42,28,30
+278,Bleacher 42,26,28
+278,Bleacher 42,27,29
+278,Bleacher 42,22,24
+278,Bleacher 42,23,25
+278,Bleacher 42,24,26
+278,Bleacher 42,25,27
+278,Bleacher 42,18,20
+278,Bleacher 42,19,21
+278,Bleacher 42,20,22
+278,Bleacher 42,21,23
+278,Bleacher 42,44,46
+278,Bleacher 42,45,47
+278,Bleacher 42,42,44
+278,Bleacher 42,43,45
+278,Bleacher 42,40,42
+278,Bleacher 42,41,43
+278,Bleacher 42,38,40
+278,Bleacher 42,39,41
+278,Bleacher 42,0,1
+278,Bleacher 42,1,3
+278,Bleacher 42,3,5
+278,Bleacher 42,2,4
+278,Bleacher 42,5,7
+278,Bleacher 42,4,6
+278,Bleacher 42,7,9
+278,Bleacher 42,6,8
+278,Bleacher 42,11,13
+278,Bleacher 42,10,12
+278,Bleacher 42,12,14
+278,Bleacher 42,9,11
+278,Bleacher 42,8,10
+278,Bleacher 42,37,39
+278,Bleacher 42,36,38
+278,Bleacher 42,13,15
+278,Bleacher 42,46,48
+278,Bleacher 42,15,17
+278,Bleacher 42,14,16
+278,Bleacher 42,17,19
+278,Bleacher 42,16,18
+278,Bleacher 42,29,31
+278,Bleacher 42,47,49
+278,Bleacher 42,35,37
+278,Bleacher 42,34,36
+278,Bleacher 42,33,35
+278,Bleacher 42,32,34
+278,Bleacher 42,31,33
+278,Bleacher 42,30,32
+278,Bleacher 42,48,50
+279,Bleacher 43,28,30
+279,Bleacher 43,26,28
+279,Bleacher 43,27,29
+279,Bleacher 43,22,24
+279,Bleacher 43,23,25
+279,Bleacher 43,24,26
+279,Bleacher 43,25,27
+279,Bleacher 43,18,20
+279,Bleacher 43,19,21
+279,Bleacher 43,20,22
+279,Bleacher 43,21,23
+279,Bleacher 43,44,46
+279,Bleacher 43,45,47
+279,Bleacher 43,42,44
+279,Bleacher 43,43,45
+279,Bleacher 43,40,42
+279,Bleacher 43,41,43
+279,Bleacher 43,38,40
+279,Bleacher 43,39,41
+279,Bleacher 43,0,1
+279,Bleacher 43,1,3
+279,Bleacher 43,3,5
+279,Bleacher 43,2,4
+279,Bleacher 43,5,7
+279,Bleacher 43,4,6
+279,Bleacher 43,7,9
+279,Bleacher 43,6,8
+279,Bleacher 43,11,13
+279,Bleacher 43,10,12
+279,Bleacher 43,12,14
+279,Bleacher 43,9,11
+279,Bleacher 43,8,10
+279,Bleacher 43,37,39
+279,Bleacher 43,36,38
+279,Bleacher 43,13,15
+279,Bleacher 43,46,48
+279,Bleacher 43,15,17
+279,Bleacher 43,14,16
+279,Bleacher 43,17,19
+279,Bleacher 43,16,18
+279,Bleacher 43,29,31
+279,Bleacher 43,47,49
+279,Bleacher 43,35,37
+279,Bleacher 43,34,36
+279,Bleacher 43,33,35
+279,Bleacher 43,32,34
+279,Bleacher 43,31,33
+279,Bleacher 43,30,32
+279,Bleacher 43,48,50
+280,Bleacher 40,9,11
+280,Bleacher 40,8,10
+280,Bleacher 40,11,13
+280,Bleacher 40,10,12
+280,Bleacher 40,13,15
+280,Bleacher 40,12,14
+280,Bleacher 40,15,17
+280,Bleacher 40,14,16
+280,Bleacher 40,0,1
+280,Bleacher 40,1,3
+280,Bleacher 40,3,5
+280,Bleacher 40,2,4
+280,Bleacher 40,5,7
+280,Bleacher 40,4,6
+280,Bleacher 40,7,9
+280,Bleacher 40,6,8
+281,Bleacher 41,28,30
+281,Bleacher 41,26,28
+281,Bleacher 41,27,29
+281,Bleacher 41,22,24
+281,Bleacher 41,23,25
+281,Bleacher 41,24,26
+281,Bleacher 41,25,27
+281,Bleacher 41,18,20
+281,Bleacher 41,19,21
+281,Bleacher 41,20,22
+281,Bleacher 41,21,23
+281,Bleacher 41,44,46
+281,Bleacher 41,45,47
+281,Bleacher 41,42,44
+281,Bleacher 41,43,45
+281,Bleacher 41,40,42
+281,Bleacher 41,41,43
+281,Bleacher 41,38,40
+281,Bleacher 41,39,41
+281,Bleacher 41,0,1
+281,Bleacher 41,1,3
+281,Bleacher 41,3,5
+281,Bleacher 41,2,4
+281,Bleacher 41,5,7
+281,Bleacher 41,4,6
+281,Bleacher 41,7,9
+281,Bleacher 41,6,8
+281,Bleacher 41,11,13
+281,Bleacher 41,10,12
+281,Bleacher 41,12,14
+281,Bleacher 41,9,11
+281,Bleacher 41,8,10
+281,Bleacher 41,37,39
+281,Bleacher 41,36,38
+281,Bleacher 41,13,15
+281,Bleacher 41,46,48
+281,Bleacher 41,15,17
+281,Bleacher 41,14,16
+281,Bleacher 41,17,19
+281,Bleacher 41,16,18
+281,Bleacher 41,29,31
+281,Bleacher 41,47,49
+281,Bleacher 41,35,37
+281,Bleacher 41,34,36
+281,Bleacher 41,33,35
+281,Bleacher 41,32,34
+281,Bleacher 41,31,33
+281,Bleacher 41,30,32
+281,Bleacher 41,48,50
+282,Loge Box 152,0,Aa
+282,Loge Box 152,5,Ff
+282,Loge Box 152,1,Bb
+282,Loge Box 152,4,Ee
+282,Loge Box 152,10,Ll
+282,Loge Box 152,6,Gg
+282,Loge Box 152,11,Mm
+282,Loge Box 152,7,Hh
+282,Loge Box 152,9,Kk
+282,Loge Box 152,8,Jj
+282,Loge Box 152,12,Nn
+282,Loge Box 152,3,Dd
+282,Loge Box 152,2,Cc
+283,Loge Box 153,0,Aa
+283,Loge Box 153,5,Ff
+283,Loge Box 153,1,Bb
+283,Loge Box 153,4,Ee
+283,Loge Box 153,10,Ll
+283,Loge Box 153,6,Gg
+283,Loge Box 153,11,Mm
+283,Loge Box 153,7,Hh
+283,Loge Box 153,9,Kk
+283,Loge Box 153,8,Jj
+283,Loge Box 153,12,Nn
+283,Loge Box 153,3,Dd
+283,Loge Box 153,2,Cc
+284,Loge Box 150,0,Aa
+284,Loge Box 150,5,Ff
+284,Loge Box 150,1,Bb
+284,Loge Box 150,4,Ee
+284,Loge Box 150,10,Ll
+284,Loge Box 150,6,Gg
+284,Loge Box 150,11,Mm
+284,Loge Box 150,7,Hh
+284,Loge Box 150,9,Kk
+284,Loge Box 150,8,Jj
+284,Loge Box 150,12,Nn
+284,Loge Box 150,3,Dd
+284,Loge Box 150,2,Cc
+285,Loge Box 151,0,Aa
+285,Loge Box 151,5,Ff
+285,Loge Box 151,1,Bb
+285,Loge Box 151,4,Ee
+285,Loge Box 151,10,Ll
+285,Loge Box 151,6,Gg
+285,Loge Box 151,11,Mm
+285,Loge Box 151,7,Hh
+285,Loge Box 151,9,Kk
+285,Loge Box 151,8,Jj
+285,Loge Box 151,12,Nn
+285,Loge Box 151,3,Dd
+285,Loge Box 151,2,Cc
+286,Field Box 81,0,A
+286,Field Box 81,2,C
+286,Field Box 81,1,B
+286,Field Box 81,4,E
+286,Field Box 81,3,D
+286,Field Box 81,6,G
+286,Field Box 81,5,F
+286,Field Box 81,7,H
+286,Field Box 81,9,K
+286,Field Box 81,8,J
+286,Field Box 81,11,M
+286,Field Box 81,10,L
+287,Loge Box 157,0,Aa
+287,Loge Box 157,13,Pp
+287,Loge Box 157,5,Ff
+287,Loge Box 157,1,Bb
+287,Loge Box 157,4,Ee
+287,Loge Box 157,10,Ll
+287,Loge Box 157,6,Gg
+287,Loge Box 157,11,Mm
+287,Loge Box 157,7,Hh
+287,Loge Box 157,9,Kk
+287,Loge Box 157,8,Jj
+287,Loge Box 157,12,Nn
+287,Loge Box 157,3,Dd
+287,Loge Box 157,2,Cc
+288,Loge Box 154,0,Aa
+288,Loge Box 154,5,Ff
+288,Loge Box 154,1,Bb
+288,Loge Box 154,4,Ee
+288,Loge Box 154,10,Ll
+288,Loge Box 154,6,Gg
+288,Loge Box 154,11,Mm
+288,Loge Box 154,7,Hh
+288,Loge Box 154,9,Kk
+288,Loge Box 154,8,Jj
+288,Loge Box 154,12,Nn
+288,Loge Box 154,3,Dd
+288,Loge Box 154,2,Cc
+289,Loge Box 155,0,Aa
+289,Loge Box 155,5,Ff
+289,Loge Box 155,1,Bb
+289,Loge Box 155,4,Ee
+289,Loge Box 155,10,Ll
+289,Loge Box 155,6,Gg
+289,Loge Box 155,11,Mm
+289,Loge Box 155,7,Hh
+289,Loge Box 155,9,Kk
+289,Loge Box 155,8,Jj
+289,Loge Box 155,12,Nn
+289,Loge Box 155,3,Dd
+289,Loge Box 155,2,Cc
+290,Loge Box 158,0,Aa
+290,Loge Box 158,13,Pp
+290,Loge Box 158,5,Ff
+290,Loge Box 158,1,Bb
+290,Loge Box 158,4,Ee
+290,Loge Box 158,10,Ll
+290,Loge Box 158,6,Gg
+290,Loge Box 158,11,Mm
+290,Loge Box 158,7,Hh
+290,Loge Box 158,9,Kk
+290,Loge Box 158,8,Jj
+290,Loge Box 158,12,Nn
+290,Loge Box 158,3,Dd
+290,Loge Box 158,2,Cc
+291,Loge Box 159,0,Aa
+291,Loge Box 159,13,Pp
+291,Loge Box 159,5,Ff
+291,Loge Box 159,1,Bb
+291,Loge Box 159,4,Ee
+291,Loge Box 159,10,Ll
+291,Loge Box 159,6,Gg
+291,Loge Box 159,11,Mm
+291,Loge Box 159,7,Hh
+291,Loge Box 159,9,Kk
+291,Loge Box 159,8,Jj
+291,Loge Box 159,12,Nn
+291,Loge Box 159,3,Dd
+291,Loge Box 159,2,Cc
+292,Green Monster M 4,0,1
+292,Green Monster M 4,2,3
+292,Green Monster M 4,1,2
+293,Infield Grandstand 25,10,11
+293,Infield Grandstand 25,9,10
+293,Infield Grandstand 25,12,13
+293,Infield Grandstand 25,11,12
+293,Infield Grandstand 25,14,15
+293,Infield Grandstand 25,13,14
+293,Infield Grandstand 25,16,17
+293,Infield Grandstand 25,15,16
+293,Infield Grandstand 25,17,18
+293,Infield Grandstand 25,0,1
+293,Infield Grandstand 25,2,3
+293,Infield Grandstand 25,1,2
+293,Infield Grandstand 25,4,5
+293,Infield Grandstand 25,3,4
+293,Infield Grandstand 25,6,7
+293,Infield Grandstand 25,5,6
+293,Infield Grandstand 25,8,9
+293,Infield Grandstand 25,7,8
+294,Infield Grandstand 26,10,11
+294,Infield Grandstand 26,9,10
+294,Infield Grandstand 26,12,13
+294,Infield Grandstand 26,11,12
+294,Infield Grandstand 26,14,15
+294,Infield Grandstand 26,13,14
+294,Infield Grandstand 26,16,17
+294,Infield Grandstand 26,15,16
+294,Infield Grandstand 26,17,18
+294,Infield Grandstand 26,0,1
+294,Infield Grandstand 26,2,3
+294,Infield Grandstand 26,1,2
+294,Infield Grandstand 26,4,5
+294,Infield Grandstand 26,3,4
+294,Infield Grandstand 26,6,7
+294,Infield Grandstand 26,5,6
+294,Infield Grandstand 26,8,9
+294,Infield Grandstand 26,7,8
+295,Green Monster M 7,0,1
+295,Green Monster M 7,2,3
+295,Green Monster M 7,1,2
+296,Infield Grandstand 20,10,11
+296,Infield Grandstand 20,9,10
+296,Infield Grandstand 20,12,13
+296,Infield Grandstand 20,11,12
+296,Infield Grandstand 20,14,15
+296,Infield Grandstand 20,13,14
+296,Infield Grandstand 20,16,17
+296,Infield Grandstand 20,15,16
+296,Infield Grandstand 20,17,18
+296,Infield Grandstand 20,0,1
+296,Infield Grandstand 20,2,3
+296,Infield Grandstand 20,1,2
+296,Infield Grandstand 20,4,5
+296,Infield Grandstand 20,3,4
+296,Infield Grandstand 20,6,7
+296,Infield Grandstand 20,5,6
+296,Infield Grandstand 20,8,9
+296,Infield Grandstand 20,7,8
+297,Infield Grandstand 21,10,11
+297,Infield Grandstand 21,9,10
+297,Infield Grandstand 21,12,13
+297,Infield Grandstand 21,11,12
+297,Infield Grandstand 21,14,15
+297,Infield Grandstand 21,13,14
+297,Infield Grandstand 21,16,17
+297,Infield Grandstand 21,15,16
+297,Infield Grandstand 21,17,18
+297,Infield Grandstand 21,0,1
+297,Infield Grandstand 21,2,3
+297,Infield Grandstand 21,1,2
+297,Infield Grandstand 21,4,5
+297,Infield Grandstand 21,3,4
+297,Infield Grandstand 21,6,7
+297,Infield Grandstand 21,5,6
+297,Infield Grandstand 21,8,9
+297,Infield Grandstand 21,7,8
+298,Infield Grandstand 22,10,11
+298,Infield Grandstand 22,9,10
+298,Infield Grandstand 22,12,13
+298,Infield Grandstand 22,11,12
+298,Infield Grandstand 22,14,15
+298,Infield Grandstand 22,13,14
+298,Infield Grandstand 22,16,17
+298,Infield Grandstand 22,15,16
+298,Infield Grandstand 22,17,18
+298,Infield Grandstand 22,0,1
+298,Infield Grandstand 22,2,3
+298,Infield Grandstand 22,1,2
+298,Infield Grandstand 22,4,5
+298,Infield Grandstand 22,3,4
+298,Infield Grandstand 22,6,7
+298,Infield Grandstand 22,5,6
+298,Infield Grandstand 22,8,9
+298,Infield Grandstand 22,7,8
+299,Green Monster M 3,0,1
+299,Green Monster M 3,2,3
+299,Green Monster M 3,1,2
+300,Infield Grandstand 28,8,11
+300,Infield Grandstand 28,7,10
+300,Infield Grandstand 28,10,13
+300,Infield Grandstand 28,9,12
+300,Infield Grandstand 28,12,15
+300,Infield Grandstand 28,11,14
+300,Infield Grandstand 28,0,3
+300,Infield Grandstand 28,2,5
+300,Infield Grandstand 28,1,4
+300,Infield Grandstand 28,4,7
+300,Infield Grandstand 28,3,6
+300,Infield Grandstand 28,6,9
+300,Infield Grandstand 28,5,8
+301,Infield Grandstand 29,10,11
+301,Infield Grandstand 29,9,10
+301,Infield Grandstand 29,12,13
+301,Infield Grandstand 29,11,12
+301,Infield Grandstand 29,14,15
+301,Infield Grandstand 29,13,14
+301,Infield Grandstand 29,16,17
+301,Infield Grandstand 29,15,16
+301,Infield Grandstand 29,17,18
+301,Infield Grandstand 29,0,1
+301,Infield Grandstand 29,2,3
+301,Infield Grandstand 29,1,2
+301,Infield Grandstand 29,4,5
+301,Infield Grandstand 29,3,4
+301,Infield Grandstand 29,6,7
+301,Infield Grandstand 29,5,6
+301,Infield Grandstand 29,8,9
+301,Infield Grandstand 29,7,8
+302,Pavilion Reserved 20,0,A
+302,Pavilion Reserved 20,2,C
+302,Pavilion Reserved 20,1,B
+302,Pavilion Reserved 20,4,E
+302,Pavilion Reserved 20,3,D
+302,Pavilion Reserved 20,6,G
+302,Pavilion Reserved 20,5,F
+302,Pavilion Reserved 20,7,H
+302,Pavilion Reserved 20,8,J
+303,Dugout Box 79,0,1
+303,Dugout Box 79,1,2
+304,Dugout Box 78,0,1
+304,Dugout Box 78,1,2
+305,Dugout Box 75,0,1
+305,Dugout Box 75,1,2
+306,Dugout Box 74,0,1
+306,Dugout Box 74,1,2
+307,Dugout Box 77,0,1
+307,Dugout Box 77,1,2
+308,Dugout Box 76,0,1
+308,Dugout Box 76,1,2
+309,Dugout Box 73,0,1
+309,Dugout Box 73,1,2
+310,Dugout Box 72,0,1
+310,Dugout Box 72,1,2
+311,Loge Box 116,3,Jj
+311,Loge Box 116,7,Nn
+311,Loge Box 116,4,Kk
+311,Loge Box 116,5,Ll
+311,Loge Box 116,1,Gg
+311,Loge Box 116,6,Mm
+311,Loge Box 116,2,Hh
+311,Loge Box 116,0,Ff
+312,Loge Box 117,0,Aa
+312,Loge Box 117,5,Ff
+312,Loge Box 117,1,Bb
+312,Loge Box 117,4,Ee
+312,Loge Box 117,10,Ll
+312,Loge Box 117,6,Gg
+312,Loge Box 117,11,Mm
+312,Loge Box 117,7,Hh
+312,Loge Box 117,9,Kk
+312,Loge Box 117,8,Jj
+312,Loge Box 117,12,Nn
+312,Loge Box 117,3,Dd
+312,Loge Box 117,2,Cc
+313,Loge Box 114,0,Aa
+313,Loge Box 114,5,Ff
+313,Loge Box 114,1,Bb
+313,Loge Box 114,4,Ee
+313,Loge Box 114,10,Ll
+313,Loge Box 114,6,Gg
+313,Loge Box 114,11,Mm
+313,Loge Box 114,7,Hh
+313,Loge Box 114,9,Kk
+313,Loge Box 114,8,Jj
+313,Loge Box 114,12,Nn
+313,Loge Box 114,3,Dd
+313,Loge Box 114,2,Cc
+314,Loge Box 115,0,Aa
+314,Loge Box 115,5,Ff
+314,Loge Box 115,1,Bb
+314,Loge Box 115,4,Ee
+314,Loge Box 115,10,Ll
+314,Loge Box 115,6,Gg
+314,Loge Box 115,11,Mm
+314,Loge Box 115,7,Hh
+314,Loge Box 115,9,Kk
+314,Loge Box 115,8,Jj
+314,Loge Box 115,12,Nn
+314,Loge Box 115,3,Dd
+314,Loge Box 115,2,Cc
+315,Loge Box 112,0,Aa
+315,Loge Box 112,5,Ff
+315,Loge Box 112,1,Bb
+315,Loge Box 112,4,Ee
+315,Loge Box 112,10,Ll
+315,Loge Box 112,6,Gg
+315,Loge Box 112,11,Mm
+315,Loge Box 112,7,Hh
+315,Loge Box 112,9,Kk
+315,Loge Box 112,8,Jj
+315,Loge Box 112,12,Nn
+315,Loge Box 112,3,Dd
+315,Loge Box 112,2,Cc
+316,Loge Box 113,0,Aa
+316,Loge Box 113,5,Ff
+316,Loge Box 113,1,Bb
+316,Loge Box 113,4,Ee
+316,Loge Box 113,10,Ll
+316,Loge Box 113,6,Gg
+316,Loge Box 113,11,Mm
+316,Loge Box 113,7,Hh
+316,Loge Box 113,9,Kk
+316,Loge Box 113,8,Jj
+316,Loge Box 113,12,Nn
+316,Loge Box 113,3,Dd
+316,Loge Box 113,2,Cc
+317,Loge Box 110,0,Aa
+317,Loge Box 110,5,Ff
+317,Loge Box 110,1,Bb
+317,Loge Box 110,4,Ee
+317,Loge Box 110,10,Ll
+317,Loge Box 110,6,Gg
+317,Loge Box 110,11,Mm
+317,Loge Box 110,7,Hh
+317,Loge Box 110,9,Kk
+317,Loge Box 110,8,Jj
+317,Loge Box 110,12,Nn
+317,Loge Box 110,3,Dd
+317,Loge Box 110,2,Cc
+318,Loge Box 111,0,Aa
+318,Loge Box 111,5,Ff
+318,Loge Box 111,1,Bb
+318,Loge Box 111,4,Ee
+318,Loge Box 111,10,Ll
+318,Loge Box 111,6,Gg
+318,Loge Box 111,11,Mm
+318,Loge Box 111,7,Hh
+318,Loge Box 111,9,Kk
+318,Loge Box 111,8,Jj
+318,Loge Box 111,12,Nn
+318,Loge Box 111,3,Dd
+318,Loge Box 111,2,Cc
+319,Pavilion Box 5,0,A
+319,Pavilion Box 5,2,C
+319,Pavilion Box 5,1,B
+319,Pavilion Box 5,4,E
+319,Pavilion Box 5,3,D
+320,Pavilion Box 4,0,A
+320,Pavilion Box 4,2,C
+320,Pavilion Box 4,1,B
+320,Pavilion Box 4,4,E
+320,Pavilion Box 4,3,D
+321,Pavilion Box 7,0,A
+321,Pavilion Box 7,2,C
+321,Pavilion Box 7,1,B
+321,Pavilion Box 7,4,E
+321,Pavilion Box 7,3,D
+322,Pavilion Box 6,0,A
+322,Pavilion Box 6,2,C
+322,Pavilion Box 6,1,B
+322,Pavilion Box 6,4,E
+322,Pavilion Box 6,3,D
+323,Pavilion Box 1,0,A
+323,Pavilion Box 1,2,C
+323,Pavilion Box 1,1,B
+323,Pavilion Box 1,4,E
+323,Pavilion Box 1,3,D
+324,Pavilion Box 3,0,A
+324,Pavilion Box 3,2,C
+324,Pavilion Box 3,1,B
+324,Pavilion Box 3,4,E
+324,Pavilion Box 3,3,D
+325,Loge Box 119,0,Aa
+325,Loge Box 119,5,Ff
+325,Loge Box 119,1,Bb
+325,Loge Box 119,4,Ee
+325,Loge Box 119,10,Ll
+325,Loge Box 119,6,Gg
+325,Loge Box 119,11,Mm
+325,Loge Box 119,7,Hh
+325,Loge Box 119,9,Kk
+325,Loge Box 119,8,Jj
+325,Loge Box 119,12,Nn
+325,Loge Box 119,3,Dd
+325,Loge Box 119,2,Cc
+326,Field Box 56,0,A
+326,Field Box 56,2,C
+326,Field Box 56,1,B
+326,Field Box 56,4,E
+326,Field Box 56,3,D
+326,Field Box 56,6,G
+326,Field Box 56,5,F
+326,Field Box 56,7,H
+326,Field Box 56,9,K
+326,Field Box 56,8,J
+326,Field Box 56,11,M
+326,Field Box 56,10,L
+327,Field Box 57,0,A
+327,Field Box 57,2,C
+327,Field Box 57,1,B
+327,Field Box 57,4,E
+327,Field Box 57,3,D
+327,Field Box 57,6,G
+327,Field Box 57,5,F
+327,Field Box 57,7,H
+327,Field Box 57,9,K
+327,Field Box 57,8,J
+327,Field Box 57,11,M
+327,Field Box 57,10,L
+328,Field Box 54,0,A
+328,Field Box 54,2,C
+328,Field Box 54,1,B
+328,Field Box 54,4,E
+328,Field Box 54,3,D
+328,Field Box 54,6,G
+328,Field Box 54,5,F
+328,Field Box 54,7,H
+328,Field Box 54,9,K
+328,Field Box 54,8,J
+328,Field Box 54,11,M
+328,Field Box 54,10,L
+329,Field Box 55,0,A
+329,Field Box 55,2,C
+329,Field Box 55,1,B
+329,Field Box 55,4,E
+329,Field Box 55,3,D
+329,Field Box 55,6,G
+329,Field Box 55,5,F
+329,Field Box 55,7,H
+329,Field Box 55,9,K
+329,Field Box 55,8,J
+329,Field Box 55,11,M
+329,Field Box 55,10,L
+330,Field Box 52,0,A
+330,Field Box 52,2,C
+330,Field Box 52,1,B
+330,Field Box 52,4,E
+330,Field Box 52,3,D
+330,Field Box 52,6,G
+330,Field Box 52,5,F
+330,Field Box 52,7,H
+330,Field Box 52,9,K
+330,Field Box 52,8,J
+330,Field Box 52,11,M
+330,Field Box 52,10,L
+331,Field Box 53,0,A
+331,Field Box 53,2,C
+331,Field Box 53,1,B
+331,Field Box 53,4,E
+331,Field Box 53,3,D
+331,Field Box 53,6,G
+331,Field Box 53,5,F
+331,Field Box 53,7,H
+331,Field Box 53,9,K
+331,Field Box 53,8,J
+331,Field Box 53,11,M
+331,Field Box 53,10,L
+332,Field Box 50,0,A
+332,Field Box 50,2,C
+332,Field Box 50,1,B
+332,Field Box 50,4,E
+332,Field Box 50,3,D
+332,Field Box 50,6,G
+332,Field Box 50,5,F
+332,Field Box 50,7,H
+332,Field Box 50,9,K
+332,Field Box 50,8,J
+332,Field Box 50,11,M
+332,Field Box 50,10,L
+333,Field Box 51,0,A
+333,Field Box 51,2,C
+333,Field Box 51,1,B
+333,Field Box 51,4,E
+333,Field Box 51,3,D
+333,Field Box 51,6,G
+333,Field Box 51,5,F
+333,Field Box 51,7,H
+333,Field Box 51,9,K
+333,Field Box 51,8,J
+333,Field Box 51,11,M
+333,Field Box 51,10,L
+334,Field Box 58,0,A
+334,Field Box 58,2,C
+334,Field Box 58,1,B
+334,Field Box 58,4,E
+334,Field Box 58,3,D
+334,Field Box 58,6,G
+334,Field Box 58,5,F
+334,Field Box 58,7,H
+334,Field Box 58,9,K
+334,Field Box 58,8,J
+334,Field Box 58,11,M
+334,Field Box 58,10,L
+335,Field Box 59,0,A
+335,Field Box 59,2,C
+335,Field Box 59,1,B
+335,Field Box 59,4,E
+335,Field Box 59,3,D
+335,Field Box 59,6,G
+335,Field Box 59,5,F
+335,Field Box 59,7,H
+335,Field Box 59,9,K
+335,Field Box 59,8,J
+335,Field Box 59,11,M
+335,Field Box 59,10,L
+336,Infield Grandstand 19,10,11
+336,Infield Grandstand 19,9,10
+336,Infield Grandstand 19,12,13
+336,Infield Grandstand 19,11,12
+336,Infield Grandstand 19,14,15
+336,Infield Grandstand 19,13,14
+336,Infield Grandstand 19,16,17
+336,Infield Grandstand 19,15,16
+336,Infield Grandstand 19,17,18
+336,Infield Grandstand 19,0,1
+336,Infield Grandstand 19,2,3
+336,Infield Grandstand 19,1,2
+336,Infield Grandstand 19,4,5
+336,Infield Grandstand 19,3,4
+336,Infield Grandstand 19,6,7
+336,Infield Grandstand 19,5,6
+336,Infield Grandstand 19,8,9
+336,Infield Grandstand 19,7,8
+337,Infield Grandstand 18,10,11
+337,Infield Grandstand 18,9,10
+337,Infield Grandstand 18,12,13
+337,Infield Grandstand 18,11,12
+337,Infield Grandstand 18,13,14
+337,Infield Grandstand 18,14,17
+337,Infield Grandstand 18,0,1
+337,Infield Grandstand 18,2,3
+337,Infield Grandstand 18,1,2
+337,Infield Grandstand 18,4,5
+337,Infield Grandstand 18,3,4
+337,Infield Grandstand 18,6,7
+337,Infield Grandstand 18,5,6
+337,Infield Grandstand 18,8,9
+337,Infield Grandstand 18,7,8
+338,Infield Grandstand 15,10,11
+338,Infield Grandstand 15,9,10
+338,Infield Grandstand 15,12,13
+338,Infield Grandstand 15,11,12
+338,Infield Grandstand 15,14,15
+338,Infield Grandstand 15,13,14
+338,Infield Grandstand 15,16,17
+338,Infield Grandstand 15,15,16
+338,Infield Grandstand 15,18,19
+338,Infield Grandstand 15,17,18
+338,Infield Grandstand 15,0,1
+338,Infield Grandstand 15,2,3
+338,Infield Grandstand 15,1,2
+338,Infield Grandstand 15,4,5
+338,Infield Grandstand 15,3,4
+338,Infield Grandstand 15,6,7
+338,Infield Grandstand 15,5,6
+338,Infield Grandstand 15,8,9
+338,Infield Grandstand 15,7,8
+339,Infield Grandstand 14,10,11
+339,Infield Grandstand 14,9,10
+339,Infield Grandstand 14,12,13
+339,Infield Grandstand 14,11,12
+339,Infield Grandstand 14,14,15
+339,Infield Grandstand 14,13,14
+339,Infield Grandstand 14,16,17
+339,Infield Grandstand 14,15,16
+339,Infield Grandstand 14,17,18
+339,Infield Grandstand 14,0,1
+339,Infield Grandstand 14,2,3
+339,Infield Grandstand 14,1,2
+339,Infield Grandstand 14,4,5
+339,Infield Grandstand 14,3,4
+339,Infield Grandstand 14,6,7
+339,Infield Grandstand 14,5,6
+339,Infield Grandstand 14,8,9
+339,Infield Grandstand 14,7,8
+340,Infield Grandstand 17,10,11
+340,Infield Grandstand 17,9,10
+340,Infield Grandstand 17,12,13
+340,Infield Grandstand 17,11,12
+340,Infield Grandstand 17,13,14
+340,Infield Grandstand 17,14,17
+340,Infield Grandstand 17,0,1
+340,Infield Grandstand 17,2,3
+340,Infield Grandstand 17,1,2
+340,Infield Grandstand 17,4,5
+340,Infield Grandstand 17,3,4
+340,Infield Grandstand 17,6,7
+340,Infield Grandstand 17,5,6
+340,Infield Grandstand 17,8,9
+340,Infield Grandstand 17,7,8
+341,Infield Grandstand 16,10,11
+341,Infield Grandstand 16,9,10
+341,Infield Grandstand 16,12,13
+341,Infield Grandstand 16,11,12
+341,Infield Grandstand 16,14,15
+341,Infield Grandstand 16,13,14
+341,Infield Grandstand 16,16,17
+341,Infield Grandstand 16,15,16
+341,Infield Grandstand 16,18,19
+341,Infield Grandstand 16,17,18
+341,Infield Grandstand 16,0,1
+341,Infield Grandstand 16,2,3
+341,Infield Grandstand 16,1,2
+341,Infield Grandstand 16,4,5
+341,Infield Grandstand 16,3,4
+341,Infield Grandstand 16,6,7
+341,Infield Grandstand 16,5,6
+341,Infield Grandstand 16,8,9
+341,Infield Grandstand 16,7,8
+342,Infield Grandstand 11,10,11
+342,Infield Grandstand 11,9,10
+342,Infield Grandstand 11,12,13
+342,Infield Grandstand 11,11,12
+342,Infield Grandstand 11,14,15
+342,Infield Grandstand 11,13,14
+342,Infield Grandstand 11,16,17
+342,Infield Grandstand 11,15,16
+342,Infield Grandstand 11,0,1
+342,Infield Grandstand 11,2,3
+342,Infield Grandstand 11,1,2
+342,Infield Grandstand 11,4,5
+342,Infield Grandstand 11,3,4
+342,Infield Grandstand 11,6,7
+342,Infield Grandstand 11,5,6
+342,Infield Grandstand 11,8,9
+342,Infield Grandstand 11,7,8
+343,Infield Grandstand 13,10,11
+343,Infield Grandstand 13,9,10
+343,Infield Grandstand 13,12,13
+343,Infield Grandstand 13,11,12
+343,Infield Grandstand 13,14,15
+343,Infield Grandstand 13,13,14
+343,Infield Grandstand 13,16,17
+343,Infield Grandstand 13,15,16
+343,Infield Grandstand 13,0,1
+343,Infield Grandstand 13,2,3
+343,Infield Grandstand 13,1,2
+343,Infield Grandstand 13,4,5
+343,Infield Grandstand 13,3,4
+343,Infield Grandstand 13,6,7
+343,Infield Grandstand 13,5,6
+343,Infield Grandstand 13,8,9
+343,Infield Grandstand 13,7,8
+344,Infield Grandstand 12,10,11
+344,Infield Grandstand 12,9,10
+344,Infield Grandstand 12,12,13
+344,Infield Grandstand 12,11,12
+344,Infield Grandstand 12,14,15
+344,Infield Grandstand 12,13,14
+344,Infield Grandstand 12,16,17
+344,Infield Grandstand 12,15,16
+344,Infield Grandstand 12,0,1
+344,Infield Grandstand 12,2,3
+344,Infield Grandstand 12,1,2
+344,Infield Grandstand 12,4,5
+344,Infield Grandstand 12,3,4
+344,Infield Grandstand 12,6,7
+344,Infield Grandstand 12,5,6
+344,Infield Grandstand 12,8,9
+344,Infield Grandstand 12,7,8
+345,Outfield Grandstand 10,10,11
+345,Outfield Grandstand 10,9,10
+345,Outfield Grandstand 10,12,13
+345,Outfield Grandstand 10,11,12
+345,Outfield Grandstand 10,14,15
+345,Outfield Grandstand 10,13,14
+345,Outfield Grandstand 10,16,17
+345,Outfield Grandstand 10,15,16
+345,Outfield Grandstand 10,0,1
+345,Outfield Grandstand 10,2,3
+345,Outfield Grandstand 10,1,2
+345,Outfield Grandstand 10,4,5
+345,Outfield Grandstand 10,3,4
+345,Outfield Grandstand 10,6,7
+345,Outfield Grandstand 10,5,6
+345,Outfield Grandstand 10,8,9
+345,Outfield Grandstand 10,7,8
+346,Loge Box 101,0,Aa
+346,Loge Box 101,14,Qq
+346,Loge Box 101,13,Pp
+346,Loge Box 101,15,Rr
+346,Loge Box 101,1,Bb
+346,Loge Box 101,4,Ee
+346,Loge Box 101,10,Ll
+346,Loge Box 101,6,Gg
+346,Loge Box 101,11,Mm
+346,Loge Box 101,7,Hh
+346,Loge Box 101,8,Jj
+346,Loge Box 101,9,Kk
+346,Loge Box 101,5,Ff
+346,Loge Box 101,12,Nn
+346,Loge Box 101,3,Dd
+346,Loge Box 101,2,Cc
+347,Loge Box 100,0,Aa
+347,Loge Box 100,14,Qq
+347,Loge Box 100,13,Pp
+347,Loge Box 100,15,Rr
+347,Loge Box 100,1,Bb
+347,Loge Box 100,4,Ee
+347,Loge Box 100,10,Ll
+347,Loge Box 100,6,Gg
+347,Loge Box 100,11,Mm
+347,Loge Box 100,7,Hh
+347,Loge Box 100,8,Jj
+347,Loge Box 100,9,Kk
+347,Loge Box 100,5,Ff
+347,Loge Box 100,12,Nn
+347,Loge Box 100,3,Dd
+347,Loge Box 100,2,Cc
+348,Loge Box 103,9,Qq
+348,Loge Box 103,8,Pp
+348,Loge Box 103,10,Rr
+348,Loge Box 103,7,Nn
+348,Loge Box 103,4,Kk
+348,Loge Box 103,5,Ll
+348,Loge Box 103,1,Gg
+348,Loge Box 103,6,Mm
+348,Loge Box 103,2,Hh
+348,Loge Box 103,3,Jj
+348,Loge Box 103,0,Ff
+349,Dugout Box 31,0,1
+349,Dugout Box 31,1,2
+350,Dugout Box 30,0,1
+350,Dugout Box 30,1,2
+351,Dugout Box 33,0,1
+351,Dugout Box 33,1,2
+352,Dugout Box 32,0,1
+352,Dugout Box 32,1,2
+353,Dugout Box 35,0,1
+353,Dugout Box 35,1,2
+354,Dugout Box 34,0,1
+354,Dugout Box 34,1,2
+355,Dugout Box 37,0,1
+355,Dugout Box 37,1,2
+356,Dugout Box 36,0,1
+356,Dugout Box 36,1,2
+357,Dugout Box 39,0,1
+357,Dugout Box 39,1,2
+358,Dugout Box 38,0,1
+358,Dugout Box 38,1,2
+359,Loge Box 104,0,Aa
+359,Loge Box 104,14,Qq
+359,Loge Box 104,13,Pp
+359,Loge Box 104,15,Rr
+359,Loge Box 104,1,Bb
+359,Loge Box 104,4,Ee
+359,Loge Box 104,10,Ll
+359,Loge Box 104,6,Gg
+359,Loge Box 104,11,Mm
+359,Loge Box 104,7,Hh
+359,Loge Box 104,8,Jj
+359,Loge Box 104,9,Kk
+359,Loge Box 104,5,Ff
+359,Loge Box 104,12,Nn
+359,Loge Box 104,3,Dd
+359,Loge Box 104,2,Cc
+360,Loge Box 107,0,Aa
+360,Loge Box 107,5,Ff
+360,Loge Box 107,1,Bb
+360,Loge Box 107,4,Ee
+360,Loge Box 107,10,Ll
+360,Loge Box 107,6,Gg
+360,Loge Box 107,11,Mm
+360,Loge Box 107,7,Hh
+360,Loge Box 107,9,Kk
+360,Loge Box 107,8,Jj
+360,Loge Box 107,12,Nn
+360,Loge Box 107,3,Dd
+360,Loge Box 107,2,Cc
+361,Loge Box 102,0,Aa
+361,Loge Box 102,14,Qq
+361,Loge Box 102,13,Pp
+361,Loge Box 102,15,Rr
+361,Loge Box 102,1,Bb
+361,Loge Box 102,4,Ee
+361,Loge Box 102,10,Ll
+361,Loge Box 102,6,Gg
+361,Loge Box 102,11,Mm
+361,Loge Box 102,7,Hh
+361,Loge Box 102,8,Jj
+361,Loge Box 102,9,Kk
+361,Loge Box 102,5,Ff
+361,Loge Box 102,12,Nn
+361,Loge Box 102,3,Dd
+361,Loge Box 102,2,Cc
+362,Loge Box 106,0,Aa
+362,Loge Box 106,14,Qq
+362,Loge Box 106,13,Pp
+362,Loge Box 106,15,Rr
+362,Loge Box 106,1,Bb
+362,Loge Box 106,4,Ee
+362,Loge Box 106,10,Ll
+362,Loge Box 106,6,Gg
+362,Loge Box 106,11,Mm
+362,Loge Box 106,7,Hh
+362,Loge Box 106,8,Jj
+362,Loge Box 106,9,Kk
+362,Loge Box 106,5,Ff
+362,Loge Box 106,12,Nn
+362,Loge Box 106,3,Dd
+362,Loge Box 106,2,Cc
+363,Loge Box 105,0,Aa
+363,Loge Box 105,14,Qq
+363,Loge Box 105,13,Pp
+363,Loge Box 105,15,Rr
+363,Loge Box 105,1,Bb
+363,Loge Box 105,4,Ee
+363,Loge Box 105,10,Ll
+363,Loge Box 105,6,Gg
+363,Loge Box 105,11,Mm
+363,Loge Box 105,7,Hh
+363,Loge Box 105,8,Jj
+363,Loge Box 105,9,Kk
+363,Loge Box 105,5,Ff
+363,Loge Box 105,12,Nn
+363,Loge Box 105,3,Dd
+363,Loge Box 105,2,Cc
+364,State Street Home Plate Pavilion Club 2,0,1
+364,State Street Home Plate Pavilion Club 2,2,3
+364,State Street Home Plate Pavilion Club 2,1,2
+364,State Street Home Plate Pavilion Club 2,4,5
+364,State Street Home Plate Pavilion Club 2,3,4
+365,State Street Home Plate Pavilion Club 3,0,1
+365,State Street Home Plate Pavilion Club 3,2,3
+365,State Street Home Plate Pavilion Club 3,1,2
+365,State Street Home Plate Pavilion Club 3,4,5
+365,State Street Home Plate Pavilion Club 3,3,4
+366,State Street Home Plate Pavilion Club 1,0,1
+366,State Street Home Plate Pavilion Club 1,2,3
+366,State Street Home Plate Pavilion Club 1,1,2
+366,State Street Home Plate Pavilion Club 1,4,5
+366,State Street Home Plate Pavilion Club 1,3,4
+367,State Street Home Plate Pavilion Club 4,0,1
+367,State Street Home Plate Pavilion Club 4,2,3
+367,State Street Home Plate Pavilion Club 4,1,2
+367,State Street Home Plate Pavilion Club 4,4,5
+367,State Street Home Plate Pavilion Club 4,3,4
+368,State Street Home Plate Pavilion Club 5,0,1
+368,State Street Home Plate Pavilion Club 5,2,3
+368,State Street Home Plate Pavilion Club 5,1,2
+368,State Street Home Plate Pavilion Club 5,4,5
+368,State Street Home Plate Pavilion Club 5,3,4
+369,Emc Suite Left 20,,
+370,Emc Suite Left 21,,
+371,Green Monster Sro,,
