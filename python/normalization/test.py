@@ -59,23 +59,23 @@ class TestNormalizer(unittest.TestCase):
             print(json.dumps(match))
         self.assertEqual(len(invalid_matches), 0)
 
-    # def test_dodgers(self):
-    #     invalid_matches = get_invalid_matches(
-    #         manifest='../../manifests/dodgerstadium_sections.csv',
-    #         input='../../samples/dodgertest.csv'
-    #     )
-    #     for match in invalid_matches:
-    #         print(json.dumps(match))
-    #     self.assertEqual(len(invalid_matches), 0)
-    #
-    # def test_redsox(self):
-    #     invalid_matches = get_invalid_matches(
-    #         manifest='../../gradesamples/fenwaypark_sections.csv',
-    #         input='../../gradesamples/redsoxgrade.csv'
-    #     )
-    #     for match in invalid_matches:
-    #         print(json.dumps(match))
-    #     self.assertEqual(len(invalid_matches), 0)
+    def test_dodgers(self):
+        invalid_matches = get_invalid_matches(
+            manifest='../../manifests/dodgerstadium_sections.csv',
+            input='../../samples/dodgertest.csv'
+        )
+        for match in invalid_matches:
+            print(json.dumps(match))
+        self.assertEqual(len(invalid_matches), 0)
+
+    def test_redsox(self):
+        invalid_matches = get_invalid_matches(
+            manifest='../../gradesamples/fenwaypark_sections.csv',
+            input='../../gradesamples/redsoxgrade.csv'
+        )
+        for match in invalid_matches:
+            print(json.dumps(match))
+        self.assertEqual(len(invalid_matches), 0)
 
 
 def generate_feature(pp='', p='', d='', s='', fp=''):

@@ -68,8 +68,8 @@ class Normalizer(object):
             valid = True or False
 
         Arguments:
-            section {[str]} -- [non-normalized section name]
-            row {[str]} -- [non-normalized row name]
+            section {[str]} -- [section name]
+            row {[str]} -- [row name]
         """
 
         if not row:  # suite section
@@ -98,19 +98,20 @@ class Normalizer(object):
                 row_id = rows[existing_row]
                 return section_id, row_id, True
 
-            return section_id, None, False
+            return None, None, False
 
         return None, None, False
 
     def query_section(self, section_name):
         """queries for an existing section given an non-normalized section name
 
-            Given a (section_name) input, returns (section)
+            Given a (s1, s2) input, returns (section)
             where
-                section = str or None
+                s1 = str
+                s2 = str
 
             Arguments:
-                section_name {[type]} -- [existing section in manifest]
+                section_name {[str]} -- [existing section in manifest]
             """
         sl_section_name = section_name.strip().lower()
         for section in self.manifest_dict:
@@ -119,9 +120,16 @@ class Normalizer(object):
         return None
 
     def sections_equal(self, s1, s2):
-        if s2 == '126':
-            print('TEST')
-            print(s1, s2)
+        """determines if two section names are equal
+
+        Given a (s1) input, returns (equality of s1 and s2)
+        where
+            (equality of s1 and s2) = bool
+
+        Arguments:
+            s1 {[str]} -- [section names]
+            s1 {[str]} -- [section names]
+        """
 
         if s1 == s2:
             return True
@@ -164,6 +172,21 @@ class Normalizer(object):
         return False
 
     def extract_section_features(self, section):
+        """extracts the preceding phrase, prefix, digits, suffix, and following phrase from a section
+
+        Given a (section) input, returns (features)
+        where
+            (features) = dict containing:
+                * preceding_phrase {[str]} - [any words that come before the first word that contains a digit]
+                * prefix {[str]} - [any characters that come before any digits in the first word that contains digits]
+                * digits {[str]} - [the first continuous sequence of digits]
+                * suffix {[str]} - [any characters that come before any digits in the first word that contains digits]
+                * following_phrase {[str]} - [any words that come after the first word that contains a digit]
+
+        Arguments:
+            section {[str]} -- [section name]
+        """
+
         features = {'preceding_phrase': '', 'prefix': '', 'digits': '', 'suffix': '', 'following_phrase': ''}
 
         # separate by white spaces
@@ -193,6 +216,18 @@ class Normalizer(object):
 
     @staticmethod
     def extract_word_features(word):
+        """extracts the prefix, digits, and suffix from a word
+
+        Given a (word) input, returns (features)
+        where
+            (features) = tuple containing:
+                * prefix {[str]} - [any characters that come before the first contiguous string of digits]
+                * digits {[str]} - [the first continuous sequence of digits]
+                * suffix {[str]} - [any characters that come after the first contiguous string of digits]
+
+        Arguments:
+            word {[str]} -- [a string of characters without spaces]
+        """
         prefix = []
         digits = []
         suffix = []
@@ -209,26 +244,21 @@ class Normalizer(object):
 
         return ''.join(prefix), ''.join(digits), ''.join(suffix)
 
-    def query_section_row(self, section, row_name):
-        assert section in self.manifest_dict
-        section_data = self.manifest_dict[section]
-        if 'rows' not in section_data or not section_data['rows']:
-            return None
-        rows = section_data['rows']
-        for row in rows:
-            if self.rows_equal(row, row_name):
-                return row
-        return None
-
-    def rows_equal(self, row1, row2):
-        return self.normalize_row(row1) == self.normalize_row(row2)
-
     @staticmethod
     def normalize_suite(suite):
         """normalizes a suite section by stripping white space and converting to lowercase"""
         return suite.strip().lower()
 
     def normalize_row(self, row):
+        """normalizes a row by extracting any digits or characters following a [A-Z] or [AA-ZZ] format
+
+        Given a (row) input, returns n_row
+        where
+            (n_row) = str
+
+        Arguments:
+            row {[str]} -- [row name]
+        """
         row = row.strip().lower().lstrip('0')
 
         # exclude any ranges
@@ -250,12 +280,44 @@ class Normalizer(object):
         # fall back on returning original string
         return row
 
+    def query_section_row(self, section, row_name):
+        assert section in self.manifest_dict
+        section_data = self.manifest_dict[section]
+        if 'rows' not in section_data or not section_data['rows']:
+            return None
+        rows = section_data['rows']
+        for row in rows:
+            if self.rows_equal(row, row_name):
+                return row
+        return None
+
+    def rows_equal(self, row1, row2):
+        return self.normalize_row(row1) == self.normalize_row(row2)
+
 
 def generate_acronym(phrase):
+    """returns the first letter in a series of words"""
     return ''.join(s[0].lower() for s in phrase.split())
 
 
 def phrase_equals_abbreviation(phrase, abr, strict=False):
+    """determines if a phrase equals an abbreviation
+
+    The determination is made using the following steps:
+        1. Does an acronym of the phrase equal the abbreviation?
+        2. Does the acronym approximately equal the abbreviation?
+        3. Does any ordered permutation of the acronym equal the abbreviation?
+        4. Is the abbreviation contained in the the phrase?
+
+    Given a (phrase) input, returns (equality of phrase and abr)
+    where
+        (equality of phrase and abr) = bool
+
+    Arguments:
+        phrase {[str]} -- [phrase]
+        abr {[str]} -- [abbreviation]
+        strict {[bool]} -- [determines how close phrase and abr must be for a match]
+    """
     acronym = generate_acronym(phrase)
     if acronym == abr:
         return True
@@ -269,25 +331,24 @@ def phrase_equals_abbreviation(phrase, abr, strict=False):
         # handle case where abbreviation is shortened/missing letters and/or switched around
         # ex: left field pavilion === pl, right field pavilion === pr
         ordered_perms = ordered_permutations(acronym)
-        # print(list(ordered_perms))
         if tuple(abr) in ordered_perms:
             return True
 
         r_ordered_perms = ordered_permutations(reversed(acronym))
-        # print(list(r_ordered_perms))
         if tuple(abr) in r_ordered_perms:
             return True
 
+    # checks to see if the abbreviation is contained within the phrase
     words = phrase.split()
     i = 0
     for word in words:
         for j, c in enumerate(word):
             if i >= len(abr):
                 break
-            # the first letter of a word must be matched
             if c == abr[i]:
                 i += 1
             else:
+                # the first letter of a word must be matched if strict
                 if strict and j == 0:
                     return False
 
@@ -295,6 +356,10 @@ def phrase_equals_abbreviation(phrase, abr, strict=False):
 
 
 def phrases_equal(phrase1, phrase2, strict=False):
+    """determines the equality of two phrases by:
+        * checking if one phrase is a substring in the other one
+        * checking for similarity using difflib
+    """
     if not strict:
         if phrase1 in phrase2 or phrase2 in phrase1:
             return True
@@ -304,16 +369,22 @@ def phrases_equal(phrase1, phrase2, strict=False):
 
 
 def abbreviations_equal(abr1, abr2):
+    """determines equivalence between two abbreviations using difflib"""
     sequence = SequenceMatcher(None, abr1, abr2)
     return sequence.ratio() >= 0.8
 
 
 def powerset(iterable):
+    """generates a power set from an iterable"""
     lst = list(iterable)
     return chain.from_iterable(combinations(lst, r) for r in range(1, len(lst) + 1))
 
 
 def ordered_permutations(iterable):
+    """generates ordered permutations from an iterable
+
+    example: 'XYZ' --> (X, Y, Z), (X, Y), (X, Z), (X), (Y, Z), (Y), (Z)
+    """
     pset = powerset(iterable)
     s = set()
     for x in pset:
