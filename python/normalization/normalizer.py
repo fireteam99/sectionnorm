@@ -1,6 +1,8 @@
 import csv
 from operator import itemgetter
 from difflib import SequenceMatcher
+from itertools import chain, combinations
+from pprint import pprint
 
 
 class Normalizer(object):
@@ -248,6 +250,18 @@ def phrase_equals_abbreviation(phrase, abr, strict=False):
         if sequence.ratio() >= .6:
             return True
 
+        # handle case where abbreviation is shortened/missing letters and/or switched around
+        # ex: left field pavilion === pl, right field pavilion === pr
+        ordered_perms = ordered_permutations(acronym)
+        # print(list(ordered_perms))
+        if tuple(abr) in ordered_perms:
+            return True
+
+        r_ordered_perms = ordered_permutations(reversed(acronym))
+        # print(list(r_ordered_perms))
+        if tuple(abr) in r_ordered_perms:
+            return True
+
     words = phrase.split()
     i = 0
     for word in words:
@@ -276,3 +290,16 @@ def phrases_equal(phrase1, phrase2, strict=False):
 def abbreviations_equal(abr1, abr2):
     sequence = SequenceMatcher(None, abr1, abr2)
     return sequence.ratio() >= 0.8
+
+
+def powerset(iterable):
+    lst = list(iterable)
+    return chain.from_iterable(combinations(lst, r) for r in range(1, len(lst) + 1))
+
+
+def ordered_permutations(iterable):
+    pset = powerset(iterable)
+    s = set()
+    for x in pset:
+        s.add(tuple(sorted(x)))
+    return s

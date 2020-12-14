@@ -45,6 +45,7 @@ class TestNormalizer(unittest.TestCase):
     def test_phrase_equals_abbreviation(self):
         self.assertTrue(phrase_equals_abbreviation('reserve', 'rs'))
         self.assertTrue(phrase_equals_abbreviation('left field pavilion', 'pl'))
+        self.assertTrue(phrase_equals_abbreviation('right field pavilion', 'pr'))
 
     def test_phrase_equal(self):
         self.assertTrue(phrases_equal('right field pavilion', 'pavilion'))
@@ -58,10 +59,19 @@ class TestNormalizer(unittest.TestCase):
     #         print(json.dumps(match))
     #     self.assertEqual(len(invalid_matches), 0)
 
-    def test_dodgers(self):
+    # def test_dodgers(self):
+    #     invalid_matches = get_invalid_matches(
+    #         manifest='../../manifests/dodgerstadium_sections.csv',
+    #         input='../../samples/dodgertest.csv'
+    #     )
+    #     for match in invalid_matches:
+    #         print(json.dumps(match))
+    #     self.assertEqual(len(invalid_matches), 0)
+
+    def test_redsox(self):
         invalid_matches = get_invalid_matches(
-            manifest='../../manifests/dodgerstadium_sections.csv',
-            input='../../samples/dodgertest.csv'
+            manifest='../../gradesamples/fenwaypark_sections.csv',
+            input='../../gradesamples/redsoxgrade.csv'
         )
         for match in invalid_matches:
             print(json.dumps(match))
