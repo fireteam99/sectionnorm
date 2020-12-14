@@ -92,6 +92,7 @@ def get_invalid_matches(manifest, input):
     normalizer = Normalizer()
     normalizer.read_manifest(manifest)
     samples = read_input(input)
+
     matched = normalize_samples(normalizer, samples, verbose=False)
 
     invalid_matches = [match for match in matched if match['expected'] != match['output']]

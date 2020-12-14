@@ -68,8 +68,8 @@ class Normalizer(object):
             valid = True or False
 
         Arguments:
-            section {[type]} -- [description]
-            row {[type]} -- [description]
+            section {[str]} -- [non-normalized section name]
+            row {[str]} -- [non-normalized row name]
         """
 
         if not row:  # suite section
@@ -80,6 +80,10 @@ class Normalizer(object):
 
                 return section_id, None, True
 
+            return None, None, False
+
+        # check for a ranged row
+        if '-' in row:
             return None, None, False
 
         # normal section
@@ -99,6 +103,15 @@ class Normalizer(object):
         return None, None, False
 
     def query_section(self, section_name):
+        """queries for an existing section given an non-normalized section name
+
+            Given a (section_name) input, returns (section)
+            where
+                section = str or None
+
+            Arguments:
+                section_name {[type]} -- [existing section in manifest]
+            """
         sl_section_name = section_name.strip().lower()
         for section in self.manifest_dict:
             if self.sections_equal(section, sl_section_name):
@@ -126,7 +139,7 @@ class Normalizer(object):
         preceding_phrase2, prefix2, digits2, suffix2, following_phrase2 = itemgetter(*dict_attrs)(features2)
 
         # first check that extracted digits matches
-        if digits1 == digits2:
+        if digits1.lstrip('0') == digits2.lstrip('0'):
 
             # if one of the sections only feature is the digits return true
             if (not preceding_phrase1 and not prefix1 and not suffix1 and not following_phrase1) or \
@@ -167,7 +180,7 @@ class Normalizer(object):
                 if any(char.isdigit() for char in chunk):
                     prefix, digits, suffix = self.extract_word_features(chunk)
                     features['prefix'] = prefix
-                    features['digits'] = digits.lstrip('0')  # remove any leading zeros
+                    features['digits'] = digits
                     features['suffix'] = suffix
                     found_digit = True
                 else:
@@ -216,7 +229,7 @@ class Normalizer(object):
         return suite.strip().lower()
 
     def normalize_row(self, row):
-        row = row.strip().lower()
+        row = row.strip().lower().lstrip('0')
 
         # exclude any ranges
         if '-' in row:
