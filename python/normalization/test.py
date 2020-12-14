@@ -50,14 +50,14 @@ class TestNormalizer(unittest.TestCase):
     def test_phrase_equal(self):
         self.assertTrue(phrases_equal('right field pavilion', 'pavilion'))
 
-    # def test_mets(self):
-    #     invalid_matches = get_invalid_matches(
-    #         manifest='../../manifests/citifield_sections.csv',
-    #         input='../../samples/metstest.csv'
-    #     )
-    #     for match in invalid_matches:
-    #         print(json.dumps(match))
-    #     self.assertEqual(len(invalid_matches), 0)
+    def test_mets(self):
+        invalid_matches = get_invalid_matches(
+            manifest='../../manifests/citifield_sections.csv',
+            input='../../samples/metstest.csv'
+        )
+        for match in invalid_matches:
+            print(json.dumps(match))
+        self.assertEqual(len(invalid_matches), 0)
 
     # def test_dodgers(self):
     #     invalid_matches = get_invalid_matches(
@@ -67,15 +67,15 @@ class TestNormalizer(unittest.TestCase):
     #     for match in invalid_matches:
     #         print(json.dumps(match))
     #     self.assertEqual(len(invalid_matches), 0)
-
-    def test_redsox(self):
-        invalid_matches = get_invalid_matches(
-            manifest='../../gradesamples/fenwaypark_sections.csv',
-            input='../../gradesamples/redsoxgrade.csv'
-        )
-        for match in invalid_matches:
-            print(json.dumps(match))
-        self.assertEqual(len(invalid_matches), 0)
+    #
+    # def test_redsox(self):
+    #     invalid_matches = get_invalid_matches(
+    #         manifest='../../gradesamples/fenwaypark_sections.csv',
+    #         input='../../gradesamples/redsoxgrade.csv'
+    #     )
+    #     for match in invalid_matches:
+    #         print(json.dumps(match))
+    #     self.assertEqual(len(invalid_matches), 0)
 
 
 def generate_feature(pp='', p='', d='', s='', fp=''):

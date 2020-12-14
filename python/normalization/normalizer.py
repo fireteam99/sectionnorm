@@ -2,7 +2,6 @@ import csv
 from operator import itemgetter
 from difflib import SequenceMatcher
 from itertools import chain, combinations
-from pprint import pprint
 
 
 class Normalizer(object):
@@ -107,6 +106,10 @@ class Normalizer(object):
         return None
 
     def sections_equal(self, s1, s2):
+        if s2 == '126':
+            print('TEST')
+            print(s1, s2)
+
         if s1 == s2:
             return True
 
@@ -164,7 +167,7 @@ class Normalizer(object):
                 if any(char.isdigit() for char in chunk):
                     prefix, digits, suffix = self.extract_word_features(chunk)
                     features['prefix'] = prefix
-                    features['digits'] = digits
+                    features['digits'] = digits.lstrip('0')  # remove any leading zeros
                     features['suffix'] = suffix
                     found_digit = True
                 else:
