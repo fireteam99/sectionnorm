@@ -13,4 +13,4 @@ Being that the majority of the rows followed the format of either being numeric 
 My normalizer works fairly well with the Mets and Dodgers test cases, but struggles with the Red sox test cases. In particular my implementation struggles when there are multiple differences between two corresponding sections. One example would be the insertion of completely different words and/or differences in formatting: `Infield Grandstand 33` should equal `Outfield Grandstand GS33`. Unfortunately, I was unable to find a way to reduce these false negatives without also increasing the number of false positives.
 
 ## Testing
-I followed a test driven development approach for my solution. This helped me identify and fix errors efficiently, and gave me insight on adjustments to my code increased or decreased accuracy. The unit tests are found in `python/normalization/test.py`.
+I followed a test driven development approach for my solution. This helped me identify and fix errors efficiently, and gave me insight on how adjustments to my code increased or decreased accuracy. The unit tests are found in `python/normalization/test.py`.
