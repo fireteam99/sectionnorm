@@ -1,6 +1,5 @@
 from normalizer import Normalizer, phrase_equals_abbreviation, phrases_equal
 import unittest
-from pprint import pprint
 import json
 from normalize import read_input, normalize_samples
 
@@ -79,6 +78,7 @@ class TestNormalizer(unittest.TestCase):
 
 
 def generate_feature(pp='', p='', d='', s='', fp=''):
+    """util function to generate feature dict"""
     return {
         'preceding_phrase': pp,
         'prefix': p,
@@ -89,6 +89,7 @@ def generate_feature(pp='', p='', d='', s='', fp=''):
 
 
 def get_invalid_matches(manifest, input):
+    """util function to return any invalid matches when running through a test file"""
     normalizer = Normalizer()
     normalizer.read_manifest(manifest)
     samples = read_input(input)

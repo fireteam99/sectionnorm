@@ -102,24 +102,25 @@ class Normalizer(object):
 
         return None, None, False
 
-    def query_section(self, section_name):
+    def query_section(self, section_name, strict=False):
         """queries for an existing section given an non-normalized section name
 
-            Given a (s1, s2) input, returns (section)
-            where
-                s1 = str
-                s2 = str
+        Given a (s1, s2) input, returns (section)
+        where
+            s1 = str
+            s2 = str
 
-            Arguments:
-                section_name {[str]} -- [existing section in manifest]
-            """
+        Arguments:
+            section_name {[str]} -- existing section in manifest
+            strict {[bool]} -- strictness of comparison
+        """
         sl_section_name = section_name.strip().lower()
         for section in self.manifest_dict:
-            if self.sections_equal(section, sl_section_name):
+            if self.sections_equal(section, sl_section_name, strict=strict):
                 return section
         return None
 
-    def sections_equal(self, s1, s2):
+    def sections_equal(self, s1, s2, strict=False):
         """determines if two section names are equal
 
         Given a (s1) input, returns (equality of s1 and s2)
@@ -127,8 +128,9 @@ class Normalizer(object):
             (equality of s1 and s2) = bool
 
         Arguments:
-            s1 {[str]} -- [section names]
-            s1 {[str]} -- [section names]
+            s1 {[str]} -- section names
+            s1 {[str]} -- section names
+            strict {[bool]} -- strictness of comparison
         """
 
         if s1 == s2:
@@ -146,7 +148,7 @@ class Normalizer(object):
         features2 = self.extract_section_features(s2)
         preceding_phrase2, prefix2, digits2, suffix2, following_phrase2 = itemgetter(*dict_attrs)(features2)
 
-        # first check that extracted digits matches
+        # first check that extracted digits matches unless comparing suites
         if digits1.lstrip('0') == digits2.lstrip('0'):
 
             # if one of the sections only feature is the digits return true
@@ -156,15 +158,15 @@ class Normalizer(object):
 
             for phrase1 in [preceding_phrase1, following_phrase1]:
                 for phrase2 in [preceding_phrase2, following_phrase2]:
-                    if phrase1 and phrase2 and phrases_equal(phrase1, phrase2):
+                    if phrase1 and phrase2 and phrases_equal(phrase1, phrase2, strict=strict):
                         return True
                 for abr2 in [prefix2, suffix2]:
-                    if phrase1 and abr2 and phrase_equals_abbreviation(phrase1, abr2):
+                    if phrase1 and abr2 and phrase_equals_abbreviation(phrase1, abr2, strict=strict):
                         return True
 
             for abr1 in [prefix1, suffix1]:
                 for phrase2 in [preceding_phrase2, following_phrase2]:
-                    if abr1 and phrase2 and phrase_equals_abbreviation(phrase2, abr1):
+                    if abr1 and phrase2 and phrase_equals_abbreviation(phrase2, abr1, strict=strict):
                         return True
                 for abr2 in [prefix2, suffix2]:
                     if abr1 and abr2 and abbreviations_equal(abr1, abr2):
